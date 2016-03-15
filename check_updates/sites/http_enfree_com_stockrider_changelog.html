@@ -1,0 +1,666 @@
+<html>
+<head>
+    <title>PRIME-Kernel</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="Content-Script-Type" content="text/javascript"> 
+    <meta http-equiv="Content-Style-Type" content="text/css"> 
+    <meta http-equiv="imagetoolbar" content="no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, width=device-width, height=device-height">
+	<link href="/stockrider/css/intro_page.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+
+<div id="layout_wrapper">
+  <p id="_topLogo"><big>PRIME Kernel</big></p>
+  <div id="_contents">
+
+<div class="_notice">
+    <big>데이터 절약 모드 사용 시 주의사항</big><br />
+    <hr></hr>
+    크롬 또는 순정(or 오페라) 브라우저의 데이터 절약 모드를 사용하면 파일이 손상되고 TWRP에서 플래싱 되지 않습니다.<br />
+    반드시 해제 후 다운로드 하세요.
+</div>
+
+<p>
+PRIME 커널은 더 나은 커널 개발을 위해 기부를 받고 있습니다.<br />
+기부는 간접적인 개발 참여 방법입니다.
+</p>
+<ul>
+	<strong style="font-size:1.2em">&nbsp;<a href="http://enfree.com/stockrider/?page=donate" target="_blank">기부로 개발에 참여하기</a>&nbsp;</strong>
+</ul>
+<p>&nbsp;</p>
+
+<h3 class="_changeTitle">v3.4.0</h3>
+<ul class="_changeInfo">
+    <li>Linux 3.10.100 업스트림.</li>
+    <li>N916SKSU2CPA3 펌웨어 업데이트 반영.</li>
+    <li>기본 cpu 가버너를 interactive로 변경.</li>
+    <li>interactive 가버너에 max_freq_hysteresis 추가.</li>
+	<li>애드온 v3.4.0-2 버전에 대응.</li>
+    <li>f2fs: Linux 4.4-rc1 버전으로 롤백.</li>
+    <li>
+		EAS: cpufreq 스케줄러 추가.<br />
+		  * CPU 가버너 중 SCHED는 사용하지 마세요(EAS에서 이용됨).<br />
+	</li>
+    <li>config: SEC_MEM 해제.</li>
+    <li>config: SEC_MISC 활성화.</li>
+    <li>
+		v3.3.0에 추가했던 암호화 알고리즘 개선 커밋들 취소.<br />
+	      * 프라이빗 모드 충돌 관련.
+	</li>
+    <li>Ramdisk: cpu 가버너(interactive, cafactive) 튜닝.</li>
+	<li>Ramdisk: busybox를 /system/xbin에 설치했을 경우 커널 플래싱 후 부트로더에 의해 busybox가 강제로 삭제되는 현상에 대응.</li>
+    <li>Synapse: ASV 그룹값 표시 방법 개선.</li>
+    <li>Synapse/고급설정: Workqueue power-efficient mode 설정 추가.</li>
+    <li>Synapse/HMP: Power Migration 설정 다시 추가.</li>
+    <li>Synapse/유틸리티: 프리셋 관련 내용 제거.</li>
+    <li>Synapse: 프리셋 탭 추가(일부 프리셋은 애드온 없이도 사용가능).</li>
+    <li>
+		Synapse: 게임튜너 MOD 탭 추가(애드온 v3.4.0 필요)<br />
+		  * 게임튜너에 (게임이 아닌)일반 앱을 강제로 추가/삭제하는 기능.<br />
+		  * 일반 앱도 해상도를 낮추면 UI 성능 뿐 아니라 배터리 향상에도 도움이 됩니다.
+	</li>
+	<li>
+		Installer: SuperSU의 System-less 모드를 해제.<br />
+		  * System-less 모드 자체의 버그들을 커널의 버그로 오인하는 경우가 많아서 귀찮아서 해제했습니다.<br />
+		  * SuperSU 2.68 이전 버전에서는 none-systemless 모드일 때 apk 패키지가 설치되지 않습니다. 플래싱 용 설치본의 압축을 풀어 /common/Superuser.apk 파일을 직접 설치하세요.<br />
+	</li>
+    <div class="button">
+      <a href="http://www.mediafire.com/download/pdutz0g6w79o082">Download</a>
+    </div>
+</ul>
+
+<h3 class="_changeTitle">v3.3.1</h3>
+<ul class="_changeInfo">
+    <li>Linux 3.10.97 업스트림.</li>
+    <li>Synapse: Wakelock: WiFi Wakelock 설정이 반영되지 않던 문제 수정.</li>
+</ul>
+
+<h3 class="_changeTitle">v3.3.0</h3>
+<ul class="_changeInfo">
+    <li>Linux 3.10.96 업스트림.</li>
+    <li>갤럭시 알파의 CPA3 펌웨어(커널) 업데이트 반영.</li>
+    <li>N916S_CPA3 펌웨어의 램디스크 적용.</li>
+    <li>RCU 성능향상.</li>
+    <li>NVIDIA CPU Relaxed 패치 제거(실험적).</li>
+    <li>XPAD 게임 컨트롤러 지원 개선.</li>
+    <li>NVIDIA CPU Relax 패치 제거.</li>
+    <li>암호화 알고리즘 개선 - Thanks to. kykdev(CUBE@Develoid)</li>
+    <li>램 관리 개선.</li>
+    <li>저장소 성능 향상.</li>
+    <li>가상메모리 크기 상향(2Gb).</li>
+    <li>ZSwap: memory max pool 크기를 70%로 상향(기존 30%) - Thanks to. arter97.</li>
+    <li>f2fs: 리눅스 4.5의 최신 업데이트 적용 - Thanks to. arter97</li>
+    <li>Synapse: 고급설정의 화면색상 반전 기능을 유틸리티 탭으로 이동.</li>
+    <li>Synapse: 유틸리티 탭의 커널모듈을 별도의 탭으로 분리(여전히 기부 애드온 필요).</li>
+    <li>Synapse: 유틸리티: 커널 플래싱 과정의 시냅스 데이터 초기화 유무 선택 옵션 추가.</li>
+    <li>Synapse: 유틸리티: 프라이빗 모드 패치 제거.</li>
+    <div class="button">
+      <a href="http://www.mediafire.com/download/o4bg0283t446nsu﻿">Download</a>
+    </div>
+</ul>
+
+<h3 class="_changeTitle">v3.2.2</h3>
+<ul class="_changeInfo">
+    <li>Module: CIFS 네트워크 파일 시스템 지원.</li>
+    <li>Module: NTFS 파일 시스템 지원.</li>
+    <li>Module: ISO CD-ROM 이미지 지원.</li>
+    <li>Module: UDF CD-ROM 이미지 지원.</li>
+    <li>Module: Xbox 게임 컨트롤러 지원.</li>
+    <li>installer: SuperSU의 System-less 모드 사용을 다시 복구.</li>
+    <li>Synapse>Utility: 프라이빗 모드 패치 추가.</li>
+    <li>Synapse>Utility: 커널 모듈 지원 추가.</li>
+    <div class="button">
+      <a href="http://www.mediafire.com/download/d6gklkr0z2nzcrm﻿">Download</a>
+    </div>
+</ul>
+
+<h3 class="_changeTitle">v3.2.0</h3>
+<ul class="_changeInfo">
+    <li>Linux 3.10.96 업스트림.</li>
+    <li>f2fs 개선</li>
+    <li>랜덤(엔트로피) 업데이트</li>
+    <li>installer: SuperSU가 더 이상 System-less 모드로 플래싱 되지 않도록 변경.</li>
+    <div class="button">
+      <a href="http://www.mediafire.com/download/f3bv18uwfkw8bc1">Download</a>
+    </div>
+</ul>
+
+<h3 class="_changeTitle">v3.1.0</h3>
+<ul class="_changeInfo">
+    <li>Linux 3.10.95 업스트림.</li>
+    <li>NAMESPACES 해제를 revert.</li>
+    <li>툴체인 변경(UBERTC 5.3.1-20160110).</li>
+    <li>웨이크락 토글에  PowerManagerService.WakeLocks 추가.</li>
+    <li>컴파일 최적화 옵션을 정리 & 변경.</li>
+    <li>A53코어 최대 전압 소폭 상향.</li>
+    <li>Module 사용을 해제.</li>
+    <li>파일시스템 성능향상.</li>
+    <li>RCU: CAF(퀄컴,Code Aurora Forum)의 소스코드로 교체.</li>
+    <li>hmp_up_threshold 기본값을 650으로 변경.</li>
+    <li>CIFS 지원 추가.</li>
+    <li>슬립 상태에서 활성화 cpu 코어를 2개로 제한.</li>
+    <li>OTG 클라이언트 모드 활성화.</li>
+    <li>USB Dual-Role 디바이스 지원 추가.</li>
+    <li>Virtual CPU Accounting 지원 제거(성능향상).</li>
+    <div class="button">
+      <a href="http://www.mediafire.com/download/5j59t1h2mqtby8a">Download</a>
+    </div>
+</ul>
+
+<h3 class="_changeTitle">v3.0.0</h3>
+<ul class="_changeInfo">
+    <li>램디스크 업데이트 (N910KKTU2COJ4)</li>
+    <li>툴체인 변경 (GCC 5.2.1 -> GCC 6.0)</li>
+    <li>UKSM 추가.</li>
+    <li>UKSM: 안드로이드 디바이스에 최적화된 튜닝 적용. (thanks to dorimanx)</li>
+    <li>dm-verity 해제.</li>
+    <li>NAMESPACES 해제.</li>
+    <li>네트워크 사용 시 발생하는 성능저하 개선.</li>
+    <li>Synapse: busybox installer 버그 수정.</li>
+    <li>Synapse: 일부 메뉴(탭) 위치 변경.</li>
+    <li>Synapse: 버전 검사 방식 변경.</li>
+    <div class="button">
+      <a href="http://lap.so/bfng">Download</a>
+    </div>
+</ul>
+
+<h3 class="_changeTitle">v2.12.0</h3>
+<ul class="_changeInfo">
+    <li>f2fs: fllow_link로 인한 커널패닉 수정.</li>
+    <li>gpu: MALI_GATOR_SUPPORT 활성화.</li>
+    <li>Synapse: utility: busybox install/remove 추가.</li>
+    <li>MMAP_READAROUND_LIMIT 추가 (from SM-A800S).</li>
+    <li>EXYNOS5_DYNAMIC_CPU_HOTPLUG_SLEEP_PREPARE 추가 (from SM-A800S).</li>
+    <li>KEYBOARD_FORCE_REPORT_PRESS_EVENT 추가 (from SM-A800S).</li>
+    <li><strong>Linux 3.18의 Energy-Aware Scheduling (EAS) Project 백포팅.</strong><br />
+     └ 스케줄러 중심의 튜닝을 통해 전력과 성능 관리를 단순화 시켜 더 효율적으로 관리합니다.<br />
+     └ 체감 가능할 정도의 성능 향상과 벤치마크 점수 향상이 있습니다.<br />
+     └ 약 300개의 변경사항(커밋)이 적용 됐습니다.<br />
+    </li>
+    <div class="button">
+      <a href="http://www.mediafire.com/download/2n294mwrfg7vwsq">Download</a>
+    </div>
+</ul>
+
+<h3 class="_changeTitle">v2.11.0</h3>
+<ul class="_changeInfo">
+    <li>driver: wake 드라이버에 sysfs 추가.</li>
+    <li>Synapse: 네트워크 탭 제거.</li>
+    <li>Synapse: 웨이크락 탭 추가.</li>
+    <div class="button">
+      <a href="http://www.mediafire.com/download/v5eq5feiuno17es">Download</a>
+    </div>
+</ul>
+
+<h3 class="_changeTitle">v2.10.2</h3>
+<ul class="_changeInfo">
+    <li>램디스크: 압축 알고리즘을 gzip으로 변경(System-less 호환).</li>
+    <li>Synapse: memory: VNSwap 설정 추가.</li>
+    <li>Synapse: cpustat: asv 그룹값이 두 번 출력되는 현상 수정.</li>
+    <div class="button">
+      <a href="http://www.mediafire.com/download/sg1rr7j13gii869">Download</a>
+    </div>
+</ul>
+
+<h3 class="_changeTitle">v2.10.1</h3>
+<ul class="_changeInfo">
+    <li>TIMA_LKMAUTH 해제.</li>
+    <li>gpu dvfs 개선.</li>
+    <li>mdnie: 디스플레이 색상 반전을 위한 sysfs 추가.</li>
+    <li>synapse -> 고급설정: 디스플레이 색상 반전 토글 옵션 추가.</li>
+    <li>SELinux 완전히 제거.</li>
+    <li>binder 스케줄링 성능향상.</li>
+    <li>Linaro-LSK의 dm-cypt topic 적용.</li>
+    <li>Linaro-LSK의 dma-mapping topic 적용.</li>
+    <li>Linux 3.10.94 upstream.</li>
+    <li>램디스크: COJ5 램디스크로 업데이트.</li>
+    <li>램디스크: LGU 지원 추가.</li>
+    <li>램디스크: SuperSU의 system-less 모드 지원 제거.<br />
+     └ v2.64 버전으로 업데이트 되면서 삼성 커널에서 정상적으로 부팅 됨.
+    </li>
+    <li><s>램디스크: 압축 알고리즘을 gzip으로 변경(System-less 호환).</s></li>
+</ul>
+
+<h3 class="_changeTitle">v2.9.1</h3>
+<ul class="_changeInfo">
+    <li>UBER 툴체인 업데이트.</li>
+    <li>Synapse: ASV 그룹값 표시방법 개선.</li>
+    <li>내장된 Knox Remover가 apk 파일(폴더) 외 부수적인 파일들을 삭제하지 않도록 변경.</li>
+    <li>SuperSU 2.6x 버전의 System-less 모드 지원.</li>
+    <li>스마트매니저 관련 버그 수정.</li>
+    <li>Synapse: [재작업] 시냅스가 실행된 상태에서 화면을 켯을 때 A57 클러스터가 최소 클럭으로 변경되는 현상 해결.</li>
+    <div class="button">
+      <a href="http://www.mediafire.com/download/yael0aafpe1zoi4/StockRider_Kernel_v2.9.1.zip">Download</a>
+    </div>
+</ul>
+
+<h3 class="_changeTitle">v2.9.0</h3>
+<ul class="_changeInfo">
+    <li>소스코드 기반 업데이트(COI2 -> COJ5).</li>
+    <li>cpuidle multiple driver 활성화.</li>
+    <li>
+    NVIDIA CPU Relaxed Patch 다시 추가.<br />
+     └ 발열감소 & 배터리 사용시간 증가.
+    </li>
+    <li>gpu: 일정 클럭 이상일 때 적용되는 CPU클럭 제한 완화(다시 추가).</li>
+    <li>synapse: 시냅스가 실행된 상태에서 화면을 켯을 때 A57 클러스터가 최소 클럭으로 변경되는 현상 해결.</li>
+    <li>Synapse: 네트워크 탭 추가.</li>
+    <div class="button">
+      <a href="http://www.mediafire.com/download/qsfh58ddf8ieeo6/StockRider_Kernel_v2.9.0.zip">Download</a>
+    </div>
+</ul>
+
+<h3 class="_changeTitle">v2.8.2 Stable</h3>
+<ul class="_changeInfo">
+    <li>Fix: 스마트매니저의 앱절전 기능이 사라지는 현상.</li>
+    <li>Synapse: 유틸리티 탭의 '프로파일' 텍스트를 '프리셋'으로 변경.</li>
+    <div class="button">
+      <a href="http://www.mediafire.com/download/4up913z5iiu0lwq/StockRider_Kernel_v2.8.2.zip">Download</a>
+    </div>
+</ul>
+
+<h3 class="_changeTitle">v2.8.1</h3>
+<ul class="_changeInfo">
+    <li>앱 리프레쉬 완화</li>
+    <li>색상반전 토글에 필요한 멀티태스크 키 터치 횟수를 3회로 변경</li>
+</ul>
+
+<h3 class="_changeTitle">v2.8.0</h3>
+<ul class="_changeInfo">
+    <li>Linux 3.10.93 업스트림</li>
+    <li>F2FS 업데이트</li>
+    <li>PATH 환경변수에서 /res/bin 디렉토리 제거<br />
+    └ 일부 금융앱의 루팅(busybox)검사 관련.
+    </li>
+    <li>powersuspend 업데이트 (v1.5->v1.7).</li>
+    <li>터치패널 드라이버 개선.</li>
+    <li>siyah(S3) 커널의 색상반전 기능 포팅 port by arter97.﻿<br />
+    └ 흰색 배경의 앱(웹페이지)에서 사용 시 배터리를 대폭 절약할 수 있습니다.<br />
+    └ 멀티태스크 버튼 네 번 연타 시 작동.
+    </li>
+</ul>
+
+<h3 class="_changeTitle">v2.7.0 Stable</h3>
+<ul class="_changeInfo">
+    <li>퀄컴의 cafactive 가버너 추가 by arter97.</li>
+    <li>gpu dvfs: cpu 클럭 제한 완화 패치 리벗.</li>
+    <li>NVIDIA cpu relaxed patch 제거(실험적).</li>
+    <li>ZRAM 제거(실험적).</li>
+    <li>v2.6 버전에 적용했던 커밋 일부 제거.</li>
+    <li>synapse: cpu stat 탭의 현재 CPU클럭 출력을 제거.</li>
+    <div class="button">
+      <a href="http://www.mediafire.com/download/59onmqty8bq8xo8/StockRider_Kernel_v2.7.0.zip">Download</a>
+    </div>
+</ul>
+
+<h3 class="_changeTitle">v2.6.0</h3>
+<ul class="_changeInfo">
+    <li>Linux 3.10.92로 업스트림</li>
+    <li>GPU down stay 활성화 & 값 변경(350)</li>
+    <li>GPU DVFS에 의한 CPU 클럭 제한 완화</li>
+    <li>GPU booster 가버너의 시작 클럭을 420 으로 변경(기존 266)</li>
+    <li>리눅스 메인 라인과 CodeAurora(Qualcomm)에서 "스케줄러, 작업큐, 네트웍 드라이버, 전원관리자" 커밋 백포팅 - from arter97<br />
+        └ 성능, 반응성, 전원관리 향상
+    </li>
+    <li>CodeAurora(Qualcomm)의 파일 시스템 드라이버, 메모리 관리 커밋 백포팅 - from arter97</li>
+    <li>vma 캐싱 적용</li>
+    <li>커널 전반의 개선을 위한 수십 개의 백포팅 커밋 적용</li>
+    <li>Virtual cpu accounting 지원</li>
+    <li>ROW I/O 스케줄러 업데이트</li>
+    <li>busybox 업데이트(v1.24.0)</li>
+    <li>램 관리에 ZPOOL 적용</li>
+    <li>SEC_OOM_KILLER 해제</li>
+    <li>
+        ZRAM과 VNSWAP을 동시 사용하도록 변경<br />
+        └ ZRAM 활성화 시 ZRAM을 소진 후 VNSWAP을 사용합니다.<br />
+        └ ZRAM의 빠른 속도와 VNSWAP의 광활한 크기를 합친 하이브리드 방식.
+    </li>
+    <li>Synapse: 데이터 초기화/커널 초기화 시 로컬에 저장 된 설정도 삭제하도록 변경.</li>
+    <div class="button">
+      <a href="http://www.mediafire.com/download/odax6p75d6ymnnb">Download</a>
+    </div>
+</ul>
+
+<h3 class="_changeTitle">v2.5.4 Stable</h3>
+<ul class="_changeInfo">
+    <li>Linux 3.10.92로 업스트림</li>
+    <li>일부 기기에서 발생하던 재부팅 현상 해결</li>
+    <li>
+        ZRAM과 VNSWAP을 동시 사용하도록 변경<br />
+        └ ZRAM 활성화 시 ZRAM을 소진 후 VNSWAP을 사용합니다.<br />
+        └ ZRAM의 빠른 속도와 VNSWAP의 광활한 크기를 합친 하이브리드 방식.
+    </li>
+    <li>Synapse: 데이터 초기화/커널 초기화 시 로컬에 저장 된 설정도 삭제하도록 변경.</li>
+    <div class="button">
+      <a href="https://app.box.com/s/c5rzqe20tnjctweivqxx053o6rmt4iwl">Download</a>
+    </div>
+</ul>
+
+<h3 class="_changeTitle">v2.5.3</h3>
+<ul class="_changeInfo">
+    <li>asv 값이 낮은 기기에 대한 안정성 향상</li>
+    <li>gpu: dynamic abb 활성화</li>
+    <li>gpu: down stay 비활성화(낮은 클럭에 머무르는 시간을 줄여서 성능을 높힘)</li>
+    <li>
+        update-zip: 커널 업데이트(플래싱) 시 시냅스 앱 데이터를 초기화 하도록 변경(재적용)<br />
+        └ 일부 유저의 시냅스 재시작 시 강종 관련<br />
+        └ 커널 업데이트(플래싱) 시 시냅스 앱 데이터가 유지되길 원한다면 /data/media/0/Synapse/.do_not_remove_data 파일을 생성할 것.<br />
+        └ 시냅스 앱 데이터 유지 시 커널 업데이트로 인해 강종 될 경우 앱 데이터를 삭제하여 해결할 것.
+    </li>
+    <li>Synapse: Adaptive LMK 설명 수정</li>
+</ul>
+
+<h3 class="_changeTitle">v2.5.1~2</h3>
+<ul class="_changeInfo">
+    <li>LMK Whitelist 제거.</li>
+    <li>re: vmpressure 프로세스 기반의 메모리 회수 기법 활성화 & 시냅스 설정 추가.</li>
+    <li>Nexus6의 minfree 값 적용.</li>
+    <li>Synapse script 수정</li>
+</ul>
+
+<h3 class="_changeTitle">v2.5.0</h3>
+<ul class="_changeInfo">
+    <li>Linux 3.10.91 업스트림</li>
+    <li>lmk: CodeAurora(Qualcomm) 버전으로 교체 from arter97.</li>
+    <li>lmk: RBTREE 사용 from arter97</li>
+    <li>vmpressure 프로세스 기반의 메모리 회수 기법 적용 from arter97.</li>
+    <li>파일 시스템과 메모리 관리에 새로운 shrinker API를 적용 from arter97.</li>
+    <li>Workqueue 전력효율 패치 재적용</li>
+    <li>busybox 바이너리 교체</li>
+    <li>busybox 위치를 /sbin └ /res/bin 으로 옮김<br />
+        └ busybox를 임의로 설치하시면 커널 외 앱에서는 설치하신 busybox가 적용됩니다.
+    </li>
+</ul>
+
+<h3 class="_changeTitle">v2.4.1 Stable</h3>
+<ul class="_changeInfo">
+    <li>SuperSU 루팅해제 불가 현상 수정</li>
+    <div class="button">
+      <a href="https://app.box.com/s/9k6nfn9eh5mv6l2tc7e8uhw8j293uo53">Download</a>
+    </div>
+</ul>
+
+<h3 class="_changeTitle">v2.4.0</h3>
+<ul class="_changeInfo">
+    <li>스로틀링 발생 후 DVFS에 의해 A53 클러스터의 최소 클럭이 500MHz로 고정되는 현상 수정</li>
+    <li>lmk: Adaptive LMK 개선 (시냅스에 설정항목 추가)</li>
+    <li>config: CMA 크기를 기존 0에서 10%로 변경(메모리 관리 관련, 테스트 필요)</li>
+    <li>Synapse: 스로틀링 탭 명칭을 DVFS로 변경</li>
+    <li>Synapse: 유틸리티>DVFS Disbler를 DVFS탭으로 이동</li>
+    <li>
+        Synapse>유틸리티: 시냅스 설정 프로파일 추가<br />
+        └ '성능 최대/성능 우선/밸런스 우선/배터리 우선/배터리 최대/안정성 우선' 프로파일 선택 가능<br />
+        └ 애드온 v2.4 필요
+    </li>
+</ul>
+
+<h3 class="_changeTitle">v2.3.2 Stable</h3>
+<ul class="_changeInfo">
+    <li>성능 최적화 관련 커밋 다수 적용</li>
+    <li>KERNEL MODE NEON 커밋에서 누락된 내용 추가</li>
+    <li>암호화 알고리즘에 NEON 적용</li>
+    <li>Synapse: 시스템 트윅 설정 파일의 권한문제 관련 개선</li>
+    <li>Synapse: HMP 탭을 기부 애드온 없이 사용할 수 있도록 변경</li>
+    <li>Synapse>HMP: 'Fork migration on big cores' 설정 제거</li>
+    <li>&lt;애드온 사용자 분들은 주의!&gt; 애드온 v2.3.1 이상을 요구합니다.</li>
+    <div class="button">
+      <a href="http://www.mediafire.com/download/4vfsfffhjwzjqz5">Download</a>
+    </div>
+</ul>
+
+<h3 class="_changeTitle">v2.3.0</h3>
+<ul class="_changeInfo">
+    <li>컴파일 옵션에 arm-v8 최적화 옵션 추가</li>
+    <li>interactive governor: change mode auto 해제</li>
+    <li>frandom 추가</li>
+    <li>Exynos TMU 컨트롤 인터페이스 추가 (스로틀링 제어)</li>
+    <li>노트5의 ISP(Image Signal Processor) TMU 포팅</li>
+    <li>2.2.1 버전에서 발생한 시냅스의 일부 표기 오류 수정</li>
+    <li>Synapse: 스로틀링 제어 탭 추가<br>
+        └ cpu/gpu/mif(메모리)/isp 스로틀링 제어
+    </li>
+    <li>Synapse>유틸리티: 시스템 트윅 추가<br />
+        └ 성능최적화, RAM 최적화, 인터넷 속도 최적화, UI 반응성 향상<br />
+        └ 기부 애드온 v2.2 필요
+    </li>
+    <li>Synapse>유틸리티: Google Play 서비스 배터리 드레인 패치 추가<br />
+        └ 기부 애드온 v2.2 필요
+    </li>
+    <li>커널 설정 기본값을 더욱 순정에 가깝게 변경</li>
+    <li>----2.3.0 preview 이후 변경사항----</li>
+    <li>부팅 시 KNOX 강제 제거 기능 추가</li>
+    <li>F2FS 지원 추가</li>
+</ul>
+<h3 class="_changeTitle">v2.2.1 Stable</h3>
+<ul class="_changeInfo">
+    <li>Linux 3.10.90 업스트림</li>
+    <li>Ramdisk: ALPM fix(노트엣지 야간시계 관련)</li>
+    <li>Ramdisk: 시스템에 busybox가 설치되지 않았더라도 synapse가 제대로 작동하도록 수정</li>
+    <li>Ramdisk: busybox 강제설치 제거(일부 은행 앱 관련)</li>
+    <li>update-zip: busybox 강제설치 제거(일부 은행 앱 관련)</li>
+    <li>2015-10-04--21:50 / 재압축 후 업로드 함</li>
+    <div class="button">
+      <a href="http://www.mediafire.com/download/6e5t09z7c8l84c9">Download</a>
+    </div>
+</ul>
+
+<h3 class="_changeTitle">v2.2 * AOSP(5.1 전용)</h3>
+<ul class="_changeInfo">
+    <li>소스코드 업데이트 - N910SKSU1COI2(기존:N91CXXU1COH4)<br />
+        └ 카메라 펌웨어 업데이트<br />
+        └ UHQ사운드 - 버퍼 관련 수정<br />
+        └ 전원관리 향상<br />
+        └ 센서허브 펌웨어 업데이트<br />
+        └ SS300 & SS333 모뎀 펌웨어 업데이트 등
+    </li>
+	<li>HMP little packing - sysfs 오류 수정</li>
+	<li>HMP power migration 설정 추가</li>
+	<li>HMP fork migration on big cores 설정 추가</li>
+	<li>HMP packing 제한 설정 추가</li>
+	<li>Synapse: HMP 탭 추가(HMP 관련 설정을 모두 여기로 옮겼습니다. 설정 변경 시 기부 애드온 필요)</li>
+    <li>AOSP 롬 지원</li>
+    <li>기타 최적화</li>
+    <div class="button">
+      <a href="http://www.mediafire.com/download/gayl55uq4lu55rr">Download</a>
+    </div>
+</ul>
+
+<h3 class="_changeTitle">v2.1.1</h3>
+<ul class="_changeInfo">
+	<li>Linux 3.10.89 업스트림</li>
+	<li>
+        오디오 컨트롤 제거<br />
+        └ 통화 중 이어폰 착/탈 시 음소거 문제 관련<br />
+        └ 미디어 재생 후 미세한 노이즈 발생 관련
+    </li>
+</ul>
+<h3 class="_changeTitle">v2.1</h3>
+<ul class="_changeInfo">
+	<li>'NOT SEANDROID ENFOCING' 메세지 제거(Thanks to arter97).</li>
+	<li>Backport random from linux 4.2+ [arter97]</li>
+	<li>외장SD 쓰기권한 패치 추가(기부애드온 v2.1 필요)</li>
+	<li>Viper4Android 패치 개선(기부애드온 v2.1 필요)</li>
+	<li>해외(N910C) 펌웨어용 발열패치 제거</li>
+</ul>
+
+<h3 class="_changeTitle">v2.0</h3>
+<ul class="_changeInfo">
+	<li>소스코드 베이스를&nbsp;N910CXXU1COH4로 변경.</li>
+	<li>Linux 3.10.88 업스트림.</li>
+	<li>A53 최적화 옵션으로 커스텀 빌드한 최신&nbsp;UBER 툴체인으로 컴파일</li>
+	<li>Audio: ClearWater Audio Control by AndreiLux<br />
+	-&gt; 하드웨어 8밴드 스테레오 EQ<br />
+	-&gt; 오디오 DAC 스테레오 앰프 제어(미디어 재생에만 적용)<br />
+	-&gt; 이어피스 볼륨 제어</li>
+	<li>cpu 최대 전압을 소폭 낮춤.</li>
+	<li>Synapse: Audio 페이지 추가</li>
+	<li>Synapse-&gt;고급설정: PowerSuspend 설정 제거.</li>
+	<li>인풋부스터 레벨 3,4,5,9 활성화</li>
+	<li>기타&nbsp;여러가지 최적화 패치.</li>
+</ul>
+
+<p class="_changeInfo" style="border:2px solid #888; font-size:1.3em">
+    2.0 버전 부터는 안드로이드 5.1 펌웨어 전용이며, 1.2.3 버전 까지는 안드로이드 5.0 펌웨어에 호환됩니다.
+</p>
+
+<h3 class="_changeTitle">v1.2.3 stable</h3>
+<ul class="_changeInfo">
+    <li>MTP, ADB 드라이버 포팅 롤백</li>
+    <li>N916 모델 부팅불가 현상 fix(dtb 롤백)</li>
+    <li>Cortex-A53 옵션으로 커스텀 빌드한 UBER 툴체인 사용</li>
+    <li>WiFi 속도향상</li>
+    <li>S-View 커버 정품인증 우회 적용</li>
+
+    <div class="button">
+      <a href="http://www.mediafire.com/download/kry4u1fnq99vj83">Download</a>
+    </div>
+</ul>
+
+<h3 class="_changeTitle">v1.2.2</h3>
+      <ul class="_changeInfo">
+        <li>갤럭시 S6 소스코드에서 ADB, MTP 드라이버 포팅</li>
+        <li>SEC_OOM_KILLER 활성화(램이 부족할때 느려지는 현상 해결)</li>
+        <li>NVIDIA cpu relaxed 패치 확장</li>
+        <li>VNSWAP 크기 변경(1280MB └ 1664MB)</li>
+        <li>Adaptive LMK 개선</li>
+        <li>WiFi Driver 최적화</li>
+        <li>인풋부스터 레벨 3,4,5,9 활성화</li>
+      </ul>
+<h3 class="_changeTitle">v1.2.1</h3>
+      <ul class="_changeInfo">
+        <li>N915SKL: 전원 끈 상태에서 충전불가 현상 해결.</li>
+        <li>BOG 넘버 이후의 펌웨어에서 안투투 Dalvik 점수 정상화</li>
+      </ul>
+
+<h3 class="_changeTitle">v1.2</h3>
+      <ul class="_changeInfo">
+        <li>Linux 3.10.87</li>
+        <li>효율 없는 커밋들 제거</li>
+        <li>시냅스의 일부 설정 오류 수정</li>
+        <li>UNALIGNED_ACCESS 로 인한 UI렉 수정</li>
+        <li>HMP Small Task Packing 최적화<br> └ 적용 시 성능 하락 폭이 줄었습니다.</li>
+        <li>fiops 스케줄러 업데이트</li>
+        <li>정수 연산 최적화(성능향상)</li>
+        <li>SELinux: Permissive 모드 강제 설정.</li>
+        <li>'영구적인 루팅 해제' 시 init.d 등의 2차 실행 쉘스크립트의 실행불가 현상 해결.</li>
+        <li>기본 가버너를 fiops로 변경(기존: cfq)</li>
+        <li>cpufreq: Ktoonservative 관련 커밋들 제거(시스템 안정성 관련).</li>
+        <li>Ramdisk: 전원을 끈 상태에서 충전 애니메이션에서 멈추던 문제 수정</li>
+        <li>synapse: 유틸리티 페이지 추가</li>
+        <li>synapse: 기부 애드온 페이지 제거</li>
+        <li>synapse: 유틸리티: Viper4Android 패치 기능 추가</li>
+        <li>synapse: 고급설정: SELinux 컨트롤 제거</li>
+        <li>synapse: About: 배포 대기중인 버전 확인기능 추가</li>
+        <li>CPU Relaxed 패치 다시 추가(+보강)</li>
+        <li>대량의 디버깅 메세지 제거</li>
+      </ul>
+<h3 class="_changeTitle">v1.1.1</h3>
+      <ul class="_changeInfo">
+        <li>N916 모델의 기저대역 인식불가 현상 수정</li>
+        <li>Synapse: 기부 애드온: 해외(N910C) 펌웨어의 발열문제 패치기능 추가</li>
+        <li>Synapse 스크립트 버그수정</li>
+      </ul>
+
+<h3 class="_changeTitle">v1.1</h3>
+      <ul class="_changeInfo">
+        <li>
+            Synapse 스크립트를 기존 /data/StockRider 에서 램디스크의 /res 로 옮김<br>
+            (공장 초기화 시 커널을 다시 플래싱 하지 않아도 시냅스가 실행됩니다)
+        </li>
+        <li>
+            Synapse: 기부 애드온: DVFS(스로틀링) 해제 기능 추가<br>
+        </li>
+        <li>minor bug fix</li>
+      </ul>
+
+<h3 class="_changeTitle">v1.0</h3>
+      <ul class="_changeInfo">
+        <li>Linux 3.10.86 업스트림</li>
+        <li>Linux 4.2+의 랜덤(Entropy 생성) 백포팅 by arter97</li>
+        <li>LMK(메모리 관리) 최적화</li>
+        <li>비정상적인 LMK 카운트 현상 수정</li>
+        <li>UNALIGNED 메모리 접근 활성화(성능향상)</li>
+        <li>NVIDIA의 전력효율 패치(CPU Relaxed) 제거 (HMP스케줄링과 어울리지 않는다는 판단)</li>
+        <li>Ramdisk Compression: LZMA └ LZO</li>
+        <li>Kernel Compression: XZ └ LZO</li>
+        <li>WiFi 절전 드라이버 제거</li>
+        <li>ZSWAP에 LZ4 압축 사용</li>
+        <li>배포본 크기가 이전버전 대비 절반으로 줄었습니다(3개 기종 동시 지원임에도 14MB 이내)</li>
+      </ul>
+
+<h3 class="_changeTitle">v0.9.1</h3>
+      <ul class="_changeInfo">
+        <li>리눅스 버전 3.10.84 업스트림</li>
+        <li>툴체인 변경: UBER Toolchain 5.1.1</li>
+        <li>LMK 최적화</li>
+        <li>unaligned access support</li>
+        <li>LZO 압축해제 속도 향상</li>
+        <li>Writeback Sync 속도향상</li>
+        <li>Kernel Entropy 기본값을 2배로 설정.(256/320 └ 512/640)</li>
+        <li>Bcmdhd4358: WiFi 최적화</li>
+        <li>ARM: copy_page 최적화</li>
+        <li>exynos_decon_display: 810x1440, 900x1600 해상도 정보 추가</li>
+        <li>ktoonservative 가버너 튜닝</li>
+        <li>노트엣지의 '야간시계' 기능 정상화</li>
+        <li>default.prop: 보안소프트웨어 차단 완화</li>
+      </ul>
+
+<h3 class="_changeTitle">v0.9.0</h3>
+      <ul class="_changeInfo">
+        <li>리눅스 버전 3.10.83 업스트림.</li>
+        <li>Universal5410 커널에서 Dynamic Hotplug 드라이버 포팅(thanks @halaszk).</li>
+        <li>시냅스 고급설정에 코어 제한 기능 추가(핫플러깅 사용).</li>
+        <li>KTSGS6(갤럭시S6) 커널에서 ktoonservative 가버너 포팅(thanks @ktoonsez).</li>
+        <li>갤럭시S6의 Input Booster 포팅(시냅스 고급설정에 추가).</li>
+        <li>갤럭시S6의 interactive cpu가버너 포팅.</li>
+        <li>interactive 가버너의 Auto Mode 활성화.</li>
+        <li>AndreiLux의 갤럭시S6 커널에서 sec charge control 포팅.</li>
+        <li>기존 Fast Charge 제거.</li>
+        <li>Dinamic dirty writeback 추가.</li>
+        <li>UKSM 제거.</li>
+        <li>NVIDIA 전력효율 패치 적용.</li>
+        <li>암호화 라이브러리에 ARM NEON 적용.</li>
+        <li>파티션 마운트 최적화 적용.</li>
+        <li>시냅스: 프로파일 불러올 때 강종되던 현상 수정.</li>
+        <li>시냅스: About 페이지 추가.</li>
+        <li>시냅스: HMP Little Packing 설정 추가.</li>
+        <li>시냅스: 'CPU 가버너' 페이지 작동방식 변경.</li>
+        <li>시냅스: '전원' 페이지에 약간의 설명이 추가되었습니다.</li>
+        <li>그 외 다수의 최적화 패치 추가. (0.8.0에서 순정에 가깝게 바뀌었었기 때문에 트윅과 패치가 다시 추가됨)</li>
+      </ul>
+
+<h3 class="_changeTitle">v0.8.1.stable</h3>
+      <ul class="_changeInfo">
+        <li>LMK: Adaptive LMK 다시 추가.</li>
+        <li>Linux: 3.10.81└82 업스트림.</li>
+        <li>베이스 소스코드: N910CXXUBOE5 업데이트.</li>
+        <li>exynos decon: Edge 소스코드의 디스플레이 패널 드라이버 일부 포팅(약간의 잔렉 제거).</li>
+        <li>VNSWAP & ZSWAP 활성화.</li>
+        <li>synapse: Z-RAM 설정 리뉴얼.</li>
+        <li>VNSWAP <└ Z-RAM 스위칭 기능 추가</li>
+        <li>몇 가지 최적화 추가.</li>
+        <li><b>이 버전은 순정 소스코드에서 최소한의 수정만 적용한 앉어성 특화 버전입니다.</b></li>
+      </ul>
+
+<h3 class="_changeTitle">v0.8.0</h3>
+      <ul class="_changeInfo">
+        <li>cpu: 클러스터 재시작 시 마지막 min/max 클럭을 기억. (근본적 원인을 해결한 클럭 고정)</li>
+        <li>cpu: A57 클러스터 max 클럭을 2000MHz로 낮춤.</li>
+        <li>UKSM 제거.</li>
+        <li>Adaptive LMK 제거 (마찬가지로 효율성 때문).</li>
+        <li>Linux 3.10.80└81 upstream.</li>
+        <li>시냅스 설정에 존재하는 기능 외 눈에 보이지 않던 패치와 트윅들 대부분(약 90개) 제거.</li>
+        <li>GPU: 오버클럭 안정성 향상.</li>
+        <li>Synapse: LMK white list 기능 추가.</li>
+        <li>Synapse: LMK 누적 횟수 표시 추가.</li>
+        <li><b>이 버전은 순정 소스코드에서 최소한의 수정만 적용한 안정성 특화 버전입니다.</b></li>
+      </ul>
+
+      <p class="info">
+      </p>
+  </div>
+</div>
+</body>
+</html>

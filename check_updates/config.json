@@ -1,0 +1,50 @@
+{
+  "search_terms":[
+    ".zip",
+    ".rar",
+    ".exe",
+    "download link",
+    "mediafire",
+    "mega",
+    "drive.google",
+    "fshare",
+    "stable",
+    "release",
+    "dropbox",
+    "box.com",
+    "androidfilehost",
+    "download."
+  ],
+  "links":[
+    {
+      "title":"StockRider Kernel",
+      "url":"http://enfree.com/stockrider/changelog.html",
+      "type":"general",
+      "search_terms":["STABLE"]
+    },
+    {
+      "title":"Firefox Stable",
+      "url":"https://www.mozilla.org/en-US/firefox/new/",
+      "type":"general",
+      "search_terms":["download.mozilla.org"]
+    },
+    {
+      "title":"Rom Note 4 #1",
+      "url":"http://sccn.vn/threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/#post-79640",
+      "type":"blog",
+      "search_terms":[]
+    },
+    {
+      "title":"Rom Note 4 #2",
+      "url":"http://sccn.vn/threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/",
+      "type":"blog",
+      "search_terms":[]
+    },
+    {
+      "title":"NatGeo Picture of the Day",
+      "url":"http://photography.nationalgeographic.com/photography/photo-of-the-day/",
+      "type":"blog",
+      "search_terms":[".jpg","data-last"]
+    }
+  ]
+}

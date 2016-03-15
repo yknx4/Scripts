@@ -1,0 +1,4799 @@
+<!DOCTYPE html>
+<html id="XenForo" lang="vi-VN" dir="LTR" class="Public NoJs LoggedOut Sidebar  Responsive HasSearch" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+	
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+	
+	
+		<base href="http://sccn.vn/" />
+		<script>
+			var _b = document.getElementsByTagName('base')[0], _bH = "http://sccn.vn/";
+			if (_b && _b.href != _bH) _b.href = _bH;
+		</script>
+	
+
+	
+	<title>Rom - ROM NVA NOTE4 SM-N910S/L/K RA MẮT ANH EM SCCN.VN</title>
+
+	
+	<noscript><style>.JsOnly, .jsOnly { display: none !important; }</style></noscript>
+	<link rel="stylesheet" href="css.php?css=xenforo,form,public&amp;style=69&amp;dir=LTR&amp;d=1458027355" />
+	<link rel="stylesheet" href="css.php?css=bb_code,chipxf_riu_form,facebook,likes_summary,login_bar,message,message_user_info,notices,panel_scroller,share_page,thread_view,wf_default&amp;style=69&amp;dir=LTR&amp;d=1458027355" />
+	
+	
+
+	<script>
+
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+	ga('create', 'UA-60240484-1', 'auto');
+	ga('send', 'pageview');
+
+</script>
+		<script src="js/jquery/jquery-1.11.0.min.js"></script>	
+		
+	<script src="js/xenforo/xenforo.js?_v=f1f36c1c"></script>
+	<script src="js/brivium/stylium/jquery.cookie.js?_v=f1f36c1c"></script>
+	<script src="js/brivium/stylium/stylium.js?_v=f1f36c1c"></script>
+	<script src="js/chipxf/remoteimageuploader/jquery-file-upload/js/vendor/jquery.ui.widget.js?_v=f1f36c1c"></script>
+	<script src="js/chipxf/remoteimageuploader/jquery-file-upload/js/jquery.iframe-transport.js?_v=f1f36c1c"></script>
+	<script src="js/chipxf/remoteimageuploader/jquery-file-upload/js/jquery.fileupload.js?_v=f1f36c1c"></script>
+	<script src="js/chipxf/remoteimageuploader/main.js?_v=f1f36c1c"></script>
+
+	
+	<link rel="apple-touch-icon" href="http://sccn.vn/styles/brivium/stylium/chromium/xenforo/logo.og.png" />
+	<link rel="alternate" type="application/rss+xml" title="RSS Feed For Sân Chơi Công Nghệ" href="forums/-/index.rss" />
+	
+	<link rel="next" href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/page-2" />
+	<link rel="canonical" href="http://sccn.vn/threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/" />
+	
+	<meta property="og:site_name" content="Sân Chơi Công Nghệ" /><meta property="og:image" content="http://s8.postimg.org/4jlzwcmv9/560fc291215d9.png" \/>
+	
+	
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content="http://sccn.vn/threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/" />
+	<meta property="og:title" content="Rom - ROM NVA NOTE4 SM-N910S/L/K RA MẮT ANH EM SCCN.VN" />
+	<meta property="og:description" content="NVA.ROM NOTE 4 S/L/K
+
+[IMG]
+
+ROM V14.1 STOCK FOR N910SLK_N916SLK (Pin ok cho anh em 916)
+Bản rom mod từ nền stock N910SKSU2COL1 mang tính ổn định, fix..." />
+	
+	<meta property="fb:app_id" content="970361216325811" />
+	<meta property="fb:admins" content="1400671953538204,1405536639668880" />
+
+
+    <!-- App Indexing for Google Search -->
+    <link href="android-app://com.quoord.tapatalkpro.activity/tapatalk/sccn.vn?location=topic&amp;tid=8694&amp;page=1&amp;perpage=20&amp;channel=google-indexing" rel="alternate" />
+    <link href="ios-app://307880732/tapatalk/sccn.vn?location=topic&amp;tid=8694&amp;page=1&amp;perpage=20&amp;channel=google-indexing" rel="alternate" />
+    
+        <meta property="al:android:package" content="com.quoord.tapatalkpro.activity" />
+        <meta property="al:android:url" content="tapatalk://sccn.vn?location=topic&amp;tid=8694&amp;page=1&amp;perpage=20&amp;channel=facebook-indexing" />
+        <meta property="al:android:app_name" content="Tapatalk" />
+        <meta property="al:ios:url" content="tapatalk://sccn.vn?location=topic&amp;tid=8694&amp;page=1&amp;perpage=20&amp;channel=facebook-indexing" />
+        <meta property="al:ios:app_store_id" content="307880732" />
+        <meta property="al:ios:app_name" content="Tapatalk" />
+        
+        <!-- twitter app card start-->
+        <!-- https://dev.twitter.com/docs/cards/types/app-card -->
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="@tapatalk" />
+        <meta name="twitter:title" content="Rom - ROM NVA NOTE4 SM-N910S/L/K RA MẮT ANH EM SCCN.VN" />
+        <meta name="twitter:description" content="Sân Chơi Công Nghệ" />
+        
+        <meta name="twitter:app:id:iphone" content="307880732" />
+        <meta name="twitter:app:url:iphone" content="tapatalk://sccn.vn?location=topic&amp;tid=8694&amp;page=1&amp;perpage=20&amp;channel=twitter-indexing" />
+        <meta name="twitter:app:id:ipad" content="307880732" />
+        <meta name="twitter:app:url:ipad" content="tapatalk://sccn.vn?location=topic&amp;tid=8694&amp;page=1&amp;perpage=20&amp;channel=twitter-indexing" />
+        <meta name="twitter:app:id:googleplay" content="com.quoord.tapatalkpro.activity" />
+        <meta name="twitter:app:url:googleplay" content="tapatalk://sccn.vn?location=topic&amp;tid=8694&amp;page=1&amp;perpage=20&amp;channel=twitter-indexing" />
+        <!-- twitter app card -->
+        
+	
+		<meta name="description" content="Rom Note 4 escort, ROM NVA NOTE4 SM-N910S/L/K RA MẮT ANH EM SCCN.VN, escort in Rom Note 4">
+	
+
+
+	
+		<meta name="keywords" content="Rom Note 4, ROM NVA NOTE4 SM-N910S/L/K RA MẮT ANH EM SCCN.VN">
+	
+
+
+	
+		<meta name="author" content="nguyenvuanh_789">
+	
+
+
+	<meta name="copyright" content="sccn, sccn.vn, sân chơi công nghệ, rom sccn, rom sccn.vn, rom lg sccn, san choi cong nghe, rom dien thoai samsung, rom dien thoai lg, dien dan cong nghe, dien dan dien thoai, dien dan may tinh, ">
+
+
+	<meta name="robots" content="index,follow">
+
+
+	<meta property="og:title" content="ROM NVA NOTE4 SM-N910S/L/K RA MẮT ANH EM SCCN.VN" />
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+<!--[if IE 7]>
+	<link rel="stylesheet" href="js/brivium/stylium/1000000/css/fa.4.2.0.ie7.min.css">
+<![endif]-->
+
+<link rel="stylesheet" href="css.php?css=stylium,stylium_modified_css,stylium_extra_css&amp;style=69&amp;dir=LTR&amp;d=1458027355" />
+
+
+
+
+
+<style type="text/css">
+		
+		body, #styliumSetting .styliumBodyBackgroundColor{
+			background-color: rgb(33, 104, 164);
+		}
+		
+		body, .messageText{
+			font-family: Arial, arial,helvetica,clean,sans-serif;
+		}
+		
+		body{
+			background-image: url();
+			-webkit-background-size: ;
+			-moz-background-size: ;
+			-o-background-size: ;
+			background-size: ;
+			background-position: ;
+			background-repeat: ;
+		}
+		
+		.breadcrumb .crust:last-child a.crumb, .navigationSideBar a:hover, body .xenOverlay.memberCard .userInfo h3 a, body .xenOverlay.memberCard .userLinks,.PageNav a:focus, .footer a:hover, .footer a:active, .navTabs .navTab.selected .navLink, .node .unread .nodeText .nodeTitle, .node .subForumList .unread .nodeTitle, .subForumsMenu .node .unread .nodeTitle, .navTabs .navTab.selected .SplitCtrl:before, #logo .fa, .footer .choosers a:hover, .node .nodeText .nodeTitle a, .sidebar .avatarList .username, .node .nodeLastPost .lastThreadTitle a, .navTabs .navTab.selected .tabLinks a, #styliumAdvancedFooter h3, .discussionListItem .title a, .messageUserBlock a.username, .publicControls .item.hashPermalink, .privateControls .control, .messageSimple .poster, .chooserColumns li a:hover, #styliumAdvancedFooter a:hover{
+			color: rgb(33, 104, 164);
+		}
+		
+		#styliumSetting .styliumPrimaryColor, .footer .pageContent, .resourceListItem .resourceImage .resourceIcon img, .resourceInfo .resourceImage .resourceIcon, #searchBar.hasSearchButton #QuickSearch .primaryControls .fa-search, .resourceListItem .resourceImage .resourceIcon img,.avatarCropper, .heading, .xenForm .formHeader, .Popup .PopupControl.PopupOpen, .Popup.PopupContainerControl.PopupOpen, .dataTable caption, .button.primary, .avatarScaler img, .xenOverlay .formOverlay .avatar img, .xenOverlay .formOverlay .avatar .img, .xenOverlay .formOverlay .avatarCropper, #logoBlock, .blockLinksList a:hover, .blockLinksList a:focus, .blockLinksList li.kbSelect a, .blockLinksList label:hover, .blockLinksList label:focus, .blockLinksList li.kbSelect label,  a.callToAction, .PageNav a.currentPage,  .PageNav a:hover, .attachment .thumbnail, .PanelScroller .navControls a.current, .sidebar .visitorPanel .visitorText, .AttachmentEditor .AttachedFile .Thumbnail{
+			background-color: rgb(33, 104, 164);
+		}
+		
+		.textCtrl:focus, .textCtrl.Focus, .PanelScroller .scrollContainer, .PanelScrollerOff .panel, .PanelScroller .navControls a{
+			border-color: rgb(33, 104, 164);
+		}
+		
+		.Menu, .PanelScroller .navControls a.current .arrow{
+			border-top-color: rgb(33, 104, 164);
+		}
+		
+		.sidebar .featuredNotice, .resourceListItem .main .featuredBanner, .smilieList .smilieText:hover, .nodeList .categoryStrip .nodeTitle a, .sidebar .section .primaryContent h3, .sidebar .section .secondaryContent h3, .profilePage .mast .section.infoBlock h3, .sidebar .section .primaryContent h3 a, .sidebar .section .secondaryContent h3 a, .titleBar h1, .discussionList .sectionHeaders a, .heading, .xenForm .formHeader, .xenOverlay .formOverlay .heading, .profilePage .primaryUserBlock h1, .textWithCount.subHeading .text, .navTabs .publicTabs .navLink, .navigationSideBar .subHeading, #content .container .xengallerySideBar .section h3, #content .container .xengallerySideBar .section h3 a, .resourceListSidebar > .secondaryContent > h3, .resourceListSidebar > .secondaryContent > h3 a{
+			color: rgb(40, 40, 40);
+		}
+		
+		#styliumSetting .styliumSecondaryColor{
+			background-color: rgb(40, 40, 40);
+		}
+		
+		.node .nodeLastPost .lastThreadMeta a, .discussionListItem .lastPostInfo .username,.publicControls .control{
+			color: rgb(33, 104, 164);
+		}
+		
+		#styliumSetting .styliumTertiaryColor{
+			background-color: rgb(33, 104, 164);
+		}
+		
+		.attachment .boxModelFixer{
+			border-color: rgb(33, 104, 164);
+		}
+		
+</style>
+
+
+</head>
+
+<body class="node206 node218 node221 node157 SelectQuotable styliumBoxedCover">
+
+<!-- Tapatalk Detect body start -->
+<style type="text/css">
+.ui-mobile [data-role="page"], .ui-mobile [data-role="dialog"], .ui-page 
+{
+top:auto;
+}
+</style>
+<script type="text/javascript">if(typeof(tapatalkDetect) == "function"){tapatalkDetect()}</script>
+<!-- Tapatalk Detect banner body end -->
+                
+
+
+<div id="StyliumWrapper">
+
+
+	
+
+<div id="loginBar">
+	<div class="pageWidth">
+		<div class="pageContent">	
+			
+			<span class="helper"></span>
+
+			
+		</div>
+	</div>
+</div>
+
+
+<div id="headerMover">
+	<div id="headerProxy"></div>
+
+<div id="content" class="thread_view">
+	<div class="pageWidth">
+		<div class="pageContent">
+			<!-- main content area -->
+			
+			
+			
+			
+				<div class="mainContainer">
+					<div class="mainContent">
+						
+						
+						
+						
+						<div class="breadBoxTop ">
+							
+							
+
+<nav>
+
+	
+	
+	
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+	
+
+	<fieldset class="breadcrumb">
+		<a href="misc/quick-navigation-menu?selected=node-206" class="OverlayTrigger jumpMenuTrigger" data-cacheOverlay="true" title="Mở điều hướng nhanh"><!--Jump to...--></a>
+			
+		<div class="boardTitle"><strong>Sân Chơi Công Nghệ</strong></div>
+		
+		<span class="crumbs">
+			
+				<span class="crust homeCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+					<a href="http://sccn.vn" class="crumb" rel="up" itemprop="url"><span itemprop="title">Home</span></a>
+					<span class="arrow"><span></span></span>
+				</span>
+			
+			
+			
+				<span class="crust selectedTabCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+					<a href="http://sccn.vn/" class="crumb" rel="up" itemprop="url"><span itemprop="title">Forums</span></a>
+					<span class="arrow"><span>&gt;</span></span>
+				</span>
+			
+			
+			
+				
+					<span class="crust" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+						<a href="http://sccn.vn/categories/phat-trien-dien-thoai.218/" class="crumb" rel="up" itemprop="url"><span itemprop="title">Phát Triển Điện Thoại</span></a>
+						<span class="arrow"><span>&gt;</span></span>
+					</span>
+				
+					<span class="crust" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+						<a href="http://sccn.vn/forums/rom-dien-thoai-samsung.221/" class="crumb" rel="up" itemprop="url"><span itemprop="title">Rom Điện Thoại Samsung</span></a>
+						<span class="arrow"><span>&gt;</span></span>
+					</span>
+				
+					<span class="crust" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+						<a href="http://sccn.vn/forums/rom-samsung-galaxy-note-4.157/" class="crumb" rel="up" itemprop="url"><span itemprop="title">Rom Samsung Galaxy Note 4</span></a>
+						<span class="arrow"><span>&gt;</span></span>
+					</span>
+				
+					<span class="crust" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+						<a href="http://sccn.vn/forums/rom-note-4.206/" class="crumb" rel="up" itemprop="url"><span itemprop="title">Rom Note 4</span></a>
+						<span class="arrow"><span>&gt;</span></span>
+					</span>
+				
+			
+		</span>
+	</fieldset>
+</nav>
+						</div>
+						
+						
+						
+					
+						<!--[if lt IE 8]>
+							<p class="importantMessage">You are using an out of date browser. It  may not display this or other websites correctly.<br />You should upgrade or use an <a href="https://www.google.com/chrome" target="_blank">alternative browser</a>.</p>
+						<![endif]-->
+
+						
+						
+
+
+
+
+
+<div class="PanelScroller Notices" data-vertical="0" data-speed="400" data-interval="4000">
+	<div class="scrollContainer">
+		<div class="PanelContainer">
+			<ol class="Panels">
+				
+					<li class="panel Notice DismissParent notice_14 " data-notice="14">
+	
+	<div class="baseHtml noticeContent"><br>
+<p align="center">Rom Samsung Galaxy Note 4 <span style="color: red;">Hot Hot</span> 2016 <a target="_blank"href="http://sccn.vn/threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/">CLICK</a></p>
+<p align="center"> Hướng dẫn <span style="color: red;">MOD ROM</span> miễn phí <a target="_blank"href="http://sccn.vn/threads/tong-hop-cac-bai-huong-dan-cook-rom-lg.2524/">CLICK</a></p>
+<p align="center"> Hướng cài đặt <span style="color: red;">Full Driver </span> cho máy tính <a target="_blank"href="http://sccn.vn/threads/driver-booster-3-full.15963/">CLICK</a></p>
+<span style="color: red;">Đánh giá chi tiết:</span> <a target="_blank"href="http://msmobile.vn/dien-thoai/samsung-galaxy-s7-edge-p1609.html">Samsung Galaxy S7 Edge</a>
+<br>
+<span style="color: red;">Cấu hình:</span> <a target="_blank"href="http://msmobile.vn/dien-thoai/xiaomi-mi5-plus-p1566.html">Xiaomi Mi5 Plus</a>
+<br></div>
+	
+	
+</li>
+				
+			</ol>
+		</div>
+	</div>
+	
+	
+</div>
+
+
+
+						
+						
+						
+						
+												
+							<!-- h1 title, description -->
+							<div class="titleBar">
+								
+								<h1><span class="prefix prefixOrange">Rom</span> ROM NVA NOTE4 SM-N910S/L/K RA MẮT ANH EM SCCN.VN</h1>
+								
+								<p id="pageDescription" class="muted ">
+	Thảo luận trong '<a href="forums/rom-note-4.206/">Rom Note 4</a>' bắt đầu bởi <a href="members/nguyen-vu-anh.193/" class="username" dir="auto">Nguyễn Vũ Anh</a>, <a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/"><span class="DateTime" title="3/3/15 lúc 13:09">3/3/15</span></a>.
+</p>
+							</div>
+						
+						
+						
+						
+						
+						<!-- main template -->
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+<div class="pageNavLinkGroup">
+	
+	<div class="linkGroup SelectionCountContainer">
+		
+		
+	</div>
+
+	
+
+
+<div class="PageNav"
+	data-page="1"
+	data-range="2"
+	data-start="2"
+	data-end="6"
+	data-last="974"
+	data-sentinel="{{sentinel}}"
+	data-baseurl="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/page-{{sentinel}}">
+	
+	<span class="pageNavHeader">Trang 1 của 974 trang</span>
+	
+	<nav>
+		
+		
+		<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/" class="currentPage " rel="start">1</a>
+		
+		
+			<a class="PageNavPrev hidden">&larr;</a> <span class="scrollable"><span class="items">
+		
+		
+		
+			<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/page-2" class="">2</a>
+		
+			<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/page-3" class="">3</a>
+		
+			<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/page-4" class="">4</a>
+		
+			<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/page-5" class="">5</a>
+		
+			<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/page-6" class="">6</a>
+		
+		
+		
+			</span></span> <a class="PageNavNext ">&rarr;</a>
+		
+		
+		<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/page-974" class="">974</a>
+		
+		
+			<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/page-2" class="text">Tiếp </a>
+			
+		
+	</nav>	
+	
+	
+</div>
+
+</div>
+
+
+<center>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- sanchoicn -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-1572795011737813"
+     data-ad-slot="4920082683"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>
+
+
+
+<form action="inline-mod/post/switch" method="post"
+	class="InlineModForm section"
+	data-cookieName="posts"
+	data-controls="#InlineModControls"
+	data-imodOptions="#ModerationSelect option">
+
+	<ol class="messageList" id="messageList">
+		
+			
+				
+
+
+<li id="post-79480" class="message  staff " data-author="Nguyễn Vũ Anh">
+
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock online">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="members/nguyen-vu-anh.193/" class="avatar Av193m" data-avatarhtml="true"><img src="data/avatars/m/0/193.jpg?1455769479" width="96" height="96" alt="Nguyễn Vũ Anh" /></a>
+			<span class="Tooltip onlineMarker" title="Online Now" data-offsetX="-22" data-offsetY="-8"></span>
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText">
+			<a href="members/nguyen-vu-anh.193/" class="username" dir="auto" itemprop="name"><span class="style3">Nguyễn Vũ Anh</span></a>
+			<em class="userTitle" itemprop="title">NOTE 4_N910S</em>
+			<em class="userBanner bannerStaff wrapped" itemprop="title"><span class="before"></span><strong>Ban Quản Trị</strong><span class="after"></span></em>
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Posts:</dt>
+						<dd><a href="search/member?user_id=193" class="concealed" rel="nofollow">3,683</a></dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>5,347</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div style="text-align: center"><b><span style="font-size: 22px"><span style="color: #ff0000">NVA.</span><a href="http://xdavn.com/samsung-galaxy-note-4.f58/" target="_blank" class="externalLink"><span style="color: #ff0000">ROM NOTE 4</span></a><span style="color: #ff0000"> S/L/K</span></span></b><br />
+<span style="color: rgb(0, 0, 255)"><br />
+<img src="http://s8.postimg.org/4jlzwcmv9/560fc291215d9.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://s8.postimg.org/4jlzwcmv9/560fc291215d9.png" /><br />
+<br />
+<b><b>ROM V14.1 STOCK FOR N910SLK_N916SLK (Pin ok cho anh em 916)</b></b></span>&#8203;</div><div style="text-align: left"><span style="color: rgb(0, 0, 255)">Bản rom mod từ nền stock N910SKSU2COL1 mang tính ổn định, fix lỗi ghi thẻ nhớ, Tin nhắn nâng cao, tối ưu lại hệ thống, kernel mới stockrider 3.3.2 rom rất nhẹ, hầu hết các app note 5 còn 2 món chưa fix được đó là spen note 5 và bộ theme sẽ fix trong thời gian tới. Anh em up trên nền stock mới nhất để tránh lỗi nhé.<br />
+Cách up: bắt buộc phải ở trên nền rom 5.1.1 mới nhất theo từng máy.<br />
+- Cách up: đề nghị làm đúng hướng dẫn để không bị lỗi<br />
+- Cần trên nền rom 5.1.1<br />
+- Chép rom vào bộ nhớ máy hoặc thẻ nhớ<br />
+- Vào recovery full wipe flash rom,<br />
+- Lần đầu khởi động khá lâu (đặc điểm chung )<br />
+Link: <a href="http://sccn.vn/threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/page-861#post-165219" class="internalLink">http://sccn.vn/threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/page-861#post-165219</a><br />
+</span>&#8203;</div><b>ROM V14 STOCK FOR N910SLK_N916SLK</b><br />
+<div style="text-align: left"><span style="color: rgb(0, 0, 255)">Bản rom mod từ nền stock N910SKSU2COL1 mang tính ổn định, fix lỗi ghi thẻ nhớ, Tin nhắn nâng cao, tối ưu lại hệ thống, kernel mới stockrider 3.3.2 rom rất nhẹ . Anh em up trên nền stock mới nhất để tránh lỗi nhé. Rom đã deodex đã cài xposed, Một số bạn không tải được fshare nhờ anh em tải về up link khác dùm.<br />
+Cách up: bắt buộc phải ở trên nền rom stock 5.1.1 mới nhất theo từng máy.(OJ4, OJ5)<br />
+- Cách up: đề nghị làm đúng hướng dẫn để không bị lỗi<br />
+- Cần trên nền rom 5.1.1<br />
+- Chép rom vào bộ nhớ máy hoặc thẻ nhớ<br />
+- Vào recovery full wipe flash rom,<br />
+- Lần đầu khởi động khá lâu (đặc điểm chung )<br />
+link: <a href="http://www.fshare.vn/file/YESIVNDMRMMX" target="_blank" class="externalLink">http://www.fshare.vn/file/YESIVNDMRMMX</a></span>&#8203;</div><div style="text-align: center"><span style="color: rgb(0, 0, 255)"><br />
+<br />
+</span>&#8203;</div><ul>
+<li><span style="color: rgb(0, 0, 255)"><b><b>GN4ROM EDIT BY NVA FOR NOTE 4 N910SLK (N916 SLK FLASH KERNEL 916)</b></b></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Based on N910CXXU1COJ5</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Zipaligned.</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Tewaks battery</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Deodexed.</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Edge features</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">All toggles</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Init.d Support (Init.d support without need of use custom kernel)</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Removed KNOX (apps, agent, container, etc..)</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Rooted (SuperSU 2.49 app + binary), BusyBox 1.23.1</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Able to write to extSdCard by all applications.</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">5 ways to reboot..</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Remove Sfinder &amp; Sconnect.</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Private Mode Fixed.</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Native call Recording.</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Enable Call &amp; MSG Blocking.</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Enabled Camera Shutter Menu.</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Disable Keyboard Nag.</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Suemax kernel Lite-v1.6</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">symbols on the keyboard</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000"><a href="http://www.ebay.com/sch/i.html?_nkw=s6+edge" target="_blank" class="externalLink">S6 edge</a> and People stripe</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">900 Fonts</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Fix external SD Card permissions</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Floating messages</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Multi user</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Smart manager widget</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Recent menu rendonded e nottifications</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Note 5 Accuweather</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Note 5 TouchWiz Home</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Note 5 Message App</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Note 5 Keyboard</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Note 5 Health</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Note 5 Smart Manager</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Note 5 Gallery</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Note 5 Email</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Note 5 Dialer and Contacts</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Note 5 SystemUI</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Note 5 My Files</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Note 5 Music</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Note 5 Calculator</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Note 5 Calendar</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Note 5 Galaxy Apps</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Note 5 WallpaperPicker</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Note 5 S Browser</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Note 5 Clock</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Note 5 Video App</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Note 5 Memo</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Note 5 Voice Recorder</span></span></li>
+<li><span style="font-size: 12px"><span style="color: #000000">Link: <a href="http://sccn.vn/threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/page-820" class="internalLink">http://sccn.vn/threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/page-820</a></span></span></li>
+</ul><b><b><span style="color: rgb(0, 0, 255)">BẢN ROM SM-N910CXXU2COJ5_V13_NVA_PORT_FOR_N910SLK_N916SLK</span></b></b><br />
+<span style="color: #000000">- Rom được làm từ nền rom Stock N910C COJ5 đã fix hết lỗi cho máy hàn, Rom đã deodex nhưng chưa up framework Xposed nên anh em muốn dùng xposed thì phải up đầy đủ mới dùng được, Rom ngon hiện tại chưa thấy lỗi, Đã tích hợp kernel mới 3.0 Stock Rider, Pin qua hai vòng sẽ ổn định, Rom còn nhiều app của Stock quốc tế nên anh em không dùng thì xóa bỏ bớt bằng titan backup.<br />
+Cách up: bắt buộc phải ở trên nền rom stock 5.1.1 mới nhất theo từng máy.(OJ4, OJ5)<br />
+- Cách up: đề nghị làm đúng hướng dẫn đểkhông bị lỗi<br />
+- Cần trên nền rom 5.1.1<br />
+- Chép rom vào bộ nhớ máy hoặc thẻ nhớ<br />
+- Vào recovery full wipe flash rom,<br />
+- Lần đầu khởi động khá mau, mặt dù rom đã dexodex.<br />
+- link: <a href="http://sccn.vn/threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/page-703" class="internalLink">http://sccn.vn/threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/page-703</a></span><br />
+<br />
+<br />
+<div style="text-align: left"><span style="color: rgb(0, 0, 255)"><br />
+<b>BẢN ROM STOCK V12 HAPPY NEW YEAR 2016 (29/12/2015)</b><br />
+Bản rom mod từ nền stock N910SKSU2COL1 mang tính ổn định, fix lỗi ghi thẻ nhớ, Tin nhắn nâng cao, tối ưu lại hệ thống, kernel mới stockrider 2.11 rom rất nhẹ . Anh em up trên nền stock mới nhất để tránh lỗi nhé. Rom đã deodex đã cài xposed, Một số bạn không tải được fshare nhờ anh em tải về up link khác dùm. <br />
+Cách up: bắt buộc phải ở trên nền rom stock 5.1.1 mới nhất theo từng máy.(OJ4, OJ5)<br />
+- Cách up: đề nghị làm đúng hướng dẫn đểkhông bị lỗi<br />
+- Cần trên nền rom 5.1.1<br />
+- Chép rom vào bộ nhớ máy hoặc thẻ nhớ<br />
+- Vào recovery full wipe flash rom,<br />
+- Lần đầu khởi động khá lâu (đặc điểm chung )<br />
+Link: <a href="https://www.fshare.vn/file/VZ4D5EAVDW6T" target="_blank" class="externalLink">https://www.fshare.vn/file/VZ4D5EAVDW6T</a></span>&#8203;</div><div style="text-align: center"><br />
+<span style="font-size: 18px"><span style="color: #b3b300"><b>NVA ROM V11 (06/11/2015)</b></span></span>&#8203;</div>Bản rom được mod từ nền LMY47X.910CXXU1COI6 rom quốc tế VN nhiều rất nhiều thứ của note 5, rom mát, âm thanh ok, Theme note 5 ok tha hồ mà chọn. trong rom có sử dụng tự liệu từ rom erobot và rom của LeDucBac, fix nóng máy của tungning cám ơn hai chủ rom này và tungninh nhiều.<br />
+Cách up: bắt buộc phải ở trên nền <a href="http://xdavn.com/samsung-galaxy-note-4.f58/" target="_blank" class="externalLink"><span style="color: #404040">rom stock note 4</span></a> 5.1.1 mới nhất theo từng máy.(OJ4, OJ5)<br />
+- Cách up: đề nghị làm đúng hướng dẫn để không bị lỗi<br />
+- Cần trên nền rom 5.1.1<br />
+- Chép rom vào bộ nhớ máy hoặc thẻ nhớ<br />
+- Vào recovery full wipe flash rom,<br />
+- Lần đầu khởi động khá lâu (đặc điểm chung )<br />
+<div style="text-align: left"><span style="color: rgb(0, 0, 255)"><span style="color: rgb(0, 0, 255)"><span style="font-size: 15px"><span style="color: rgb(0, 102, 0)">Link V11 new: <b><a href="https://www.fshare.vn/folder/7L6OP9VCTR3W" target="_blank" class="externalLink">https://www.fshare.vn/folder/7L6OP9VCTR3W</a></b></span></span></span></span>&#8203;</div>link google đây: thanhk <a href="http://sccn.vn/members/7903/" class="username" data-user="7903, @ngtam29">@ngtam29</a><br />
+N910s: <a href="https://drive.google.com/file/d/0B-EZXujLMAGBNVhOeEtBRmxpa3M/view?usp=sharing" target="_blank" class="externalLink">N910s_V11_new</a><br />
+N910k: <a href="https://drive.google.com/file/d/0B-EZXujLMAGBQ19aYzVJcG9UX3c/view?usp=sharing" target="_blank" class="externalLink">N910k_V11_new</a><br />
+N910L: <a href="https://drive.google.com/file/d/0B-EZXujLMAGBZmZ5QVlFdldUaWc/view?usp=sharing" target="_blank" class="externalLink">N910L_v11_new</a><br />
+<div style="text-align: left">&#8203;</div>SystemUI V11 thank<a href="http://sccn.vn/members/4896/" class="username" data-user="4896, @Lelong3010">@Lelong3010</a><br />
+Zin 100% cho V11 NVA<br />
+Flash qua recovery<br />
+<br />
+<a href="https://mega.nz/#!pApSSJIA!FhgEriveR94TZg5Yb_sgtDjVmMotUmA6U4-OKTEiabI" target="_blank" class="externalLink">https://mega.nz/#!pApSSJIA!FhgEriveR94TZg5Yb_sgtDjVmMotUmA6U4-OKTEiabI</a><br />
+SystemUI Mod cho V11 NVA .lock ẩn + ............+ không bị nhá nhá <img src="styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie1" alt=":)" title="Smile    :)" /><img src="styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie1" alt=":)" title="Smile    :)" /><img src="styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie1" alt=":)" title="Smile    :)" /><br />
+Các phần còn lại ae tự xử<br />
+<br />
+<br />
+<a href="https://mega.nz/#!EF5zGSCC!xwoLg88qsz62bfJUCdRHmyKJDS6dc8_LMx_hn4gRv0M" target="_blank" class="externalLink">https://mega.nz/#!EF5zGSCC!xwoLg88qsz62bfJUCdRHmyKJDS6dc8_LMx_hn4gRv0M</a><br />
+<div style="text-align: left">&#8203;</div><div style="text-align: center"><span style="color: rgb(0, 0, 255)"><span style="color: rgb(0, 0, 255)"><b><span style="font-size: 18px">BẢN ROM STOCK V10 DEODEX (28/10/2015)</span></b></span></span>&#8203;</div><div style="text-align: left"><span style="font-size: 18px">      <span style="color: #006600"> Bản rom mod từ nền stock N910SKSU2COJ4 mang tính ổn định, fix lỗi ghi thẻ nhớ, Tin nhắn nâng cao, tối ưu lại hệ thống, kernel mới stockrider 2.5.3 rom rất nhẹ . Anh em up trên nền stock mới nhất để tránh lỗi nhé. Rom đã deodex nên dùng xposed vô tư, Một số bạn không tải được fshare nhờ anh em tải về up link khác dùm. </span></span><br />
+<span style="font-size: 15px"><span style="color: #006600">Cách up: bắt buộc phải ở trên nền rom stock 5.1.1 mới nhất theo từng máy.(OJ4, OJ5)<br />
+- Cách up: đề nghị làm đúng hướng dẫn để không bị lỗi<br />
+- Cần trên nền rom 5.1.1<br />
+- Chép rom vào bộ nhớ máy hoặc thẻ nhớ<br />
+- Vào recovery full wipe flash rom,<br />
+- Lần đầu khởi động khá lâu (đặc điểm chung )</span></span>&#8203;</div>      Link: <a href="https://www.fshare.vn/file/KHHPVYWF68E3" target="_blank" class="externalLink">https://www.fshare.vn/file/KHHPVYWF68E3</a><br />
+Có ai bị lỗi SmartManager flash cái này vào<br />
+<a href="https://www.fshare.vn/file/REFMKQQ8M8XR" target="_blank" class="externalLink">https://www.fshare.vn/file/REFMKQQ8M8XR</a><br />
+FIX ACTION MEMO FLASH QUA REC<br />
+<a href="https://www.fshare.vn/file/6VKXQKBN38IM" target="_blank" class="externalLink">https://www.fshare.vn/file/6VKXQKBN38IM</a><br />
+<br />
+<div style="text-align: center"><span style="color: rgb(0, 0, 255)"><b><span style="font-size: 18px"><span style="color: rgb(0, 0, 255)">BẢN ROM STOCK V9</span></span></b></span>&#8203;</div><div style="text-align: left"><span style="color: rgb(0, 0, 255)"><span style="color: rgb(0, 0, 255)"><span style="font-size: 18px">       Bản rom mod từ nền stock N 910U mang tính ổn định, fix lỗi, Tin nhắn nâng cao, tối ưu lại hệ thống, kernel mới stockrider 2.3.2 rom rất nhẹ . Anh em up trên nền stock mới nhất để tránh lỗi nhé. Rom đã deodex nên dùng xposed vô tư, Một số bạn không tải được fshare nhờ anh em tải về up link khác dùm.</span></span><br />
+       Cám ơn các anh <a href="http://sccn.vn/members/277/" class="username" data-user="277, @hoalang">@hoalang</a>, <a href="http://sccn.vn/members/5436/" class="username" data-user="5436, @ngocloi">@ngocloi</a>, <a href="http://sccn.vn/members/7732/" class="username" data-user="7732, @nguyen hung son">@nguyen hung son</a>, <a href="http://sccn.vn/members/4556/" class="username" data-user="4556, @nam_72">@nam_72</a> đã làm chuột bạch test rom mà không sợ cháy máy<img src="http://l.yimg.com/us.yimg.com/i/mesg/emoticons7/19.gif" class="mceSmilie" alt="&gt;:)" title="quỷ sứ    &gt;:)" /><img src="http://l.yimg.com/us.yimg.com/i/mesg/emoticons7/19.gif" class="mceSmilie" alt="&gt;:)" title="quỷ sứ    &gt;:)" /><img src="http://l.yimg.com/us.yimg.com/i/mesg/emoticons7/19.gif" class="mceSmilie" alt="&gt;:)" title="quỷ sứ    &gt;:)" /><br />
+<span style="color: rgb(0, 0, 255)"><span style="font-size: 18px">      Cách up: bắt buộc phải ở trên nền rom stock 5.1.1 mới nhất theo từng máy, nếu đang ở các bản v8 thì up lên luôn </span></span></span><br />
+<span style="color: #0000ff"><span style="color: rgb(0, 0, 255)"><span style="font-size: 18px"><span style="font-size: 15px">- Cách up: đề nghị làm đúng hướng dẫn để không bị lỗi</span></span></span></span><br />
+<span style="color: #0000ff"><span style="font-size: 18px"><span style="color: rgb(0, 0, 255)"><span style="font-size: 15px">- Cần trên nền rom 5.1.1</span></span></span></span><br />
+<span style="color: #0000ff"><span style="font-size: 18px"><span style="color: rgb(0, 0, 255)"><span style="font-size: 15px">- Chép rom vào bộ nhớ máy hoặc thẻ nhớ</span></span></span></span><br />
+<span style="color: #0000ff"><span style="font-size: 18px"><span style="color: rgb(0, 0, 255)"><span style="font-size: 15px">- Vào recovery full wipe flash rom,</span></span></span></span><br />
+<span style="color: #0000ff"><span style="font-size: 18px"><span style="color: rgb(0, 0, 255)"><span style="font-size: 15px">- Lần đầu khởi động khá lâu (đặc điểm chung )</span></span></span></span><br />
+<span style="color: #0000ff"><span style="font-size: 18px"><span style="color: rgb(0, 0, 255)"><span style="font-size: 15px"><b>Link rom: <a href="https://www.fshare.vn/file/KCMVCO5EB244" target="_blank" class="externalLink">https://www.fshare.vn/file/KCMVCO5EB244</a> (đã fix xoay màn hình mới update)</b></span></span></span></span><br />
+<span style="color: #0000ff"><span style="font-size: 18px"><span style="color: rgb(0, 0, 255)"><b><b><b><b><b><b><b><b><span style="font-size: 15px">Link rom: <a href="https://www.fshare.vn/file/OSNO37E6CYKN" target="_blank" class="externalLink">https://www.fshare.vn/file/OSNO37E6CYKN</a></span></b></b></b></b></b></b></b></b></span></span></span><br />
+<span style="color: #0000ff"><span style="font-size: 18px"><span style="color: rgb(0, 0, 255)"><b><b><b><b><b><b><b><b>Link V9: <a href="https://drive.google.com/file/d/0B0vqH_iPn64zZUFIZ3FFbHN0LUE/view?usp=sharing" target="_blank" class="externalLink">https://drive.google.com/file/d/0B0vqH_iPn64zZUFIZ3FFbHN0LUE/view?usp=sharing</a> (thank <a href="http://sccn.vn/members/9260/" class="username" data-user="9260, @tobo">@tobo</a>) </b></b></b></b></b></b></b></b></span></span></span><br />
+<span style="color: #0000ff"><span style="color: rgb(0, 0, 255)"><b><b><b><b><b><b><b><b><span style="font-size: 15px">Fix xoay màn hình</span></b></b></b></b></b></b></b></b></span></span><br />
+<span style="color: #0000ff"><span style="color: rgb(0, 0, 255)"><b><b><b><b><b><b><b><b><span style="font-size: 15px">file flash qua rec <a href="https://www.fshare.vn/file/ELIHOO49ODH1" target="_blank" class="externalLink">https://www.fshare.vn/file/ELIHOO49ODH1</a> </span></b></b></b></b></b></b></b></b></span></span><br />
+<span style="color: #0000ff"><span style="color: rgb(0, 0, 255)"><b><b><b><b><b><b><b><b><span style="font-size: 15px">hoặc</span></b></b></b></b></b></b></b></b></span></span>&#8203;</div>Tải <a href="http://www.mediafire.com/download/54gv4zmdzfugk0h/libgnustl_shared.so.zip" target="_blank" class="externalLink">http://www.mediafire.com/download/54gv4zmdzfugk0h/libgnustl_shared.so.zip</a><br />
+Giải nén file chép vào System &gt; lib set quyền 644<br />
+reboot máy xoay ầm ầm luôn. Thank <a href="http://sccn.vn/members/9425/" class="username" data-user="9425, @Quỳnh Long">@Quỳnh Long</a> đã chia sẽ<br />
+<div style="text-align: left">&#8203;</div><div style="text-align: center"><br />
+<b><span style="font-size: 18px"><span style="color: #0000ff">BẢN ROM STOCK 8.1 </span></span></b>&#8203;</div><div style="text-align: left"><span style="color: rgb(0, 0, 255)"><span style="font-size: 18px">       Bản rom mod từ nền stock mang tính ổn định, fix lỗi, Tin nhắn nâng cao, tối ưu lại hệ thống, kernel mới stockrider 2.2 rom rất n32hẹ chỉ có 1G thôi. Anh em up trên nền stock mới nhất để tránh lỗi nhé. Rom làm hai bản một có xposed và flat styl .... và một bản không có xposed tùy theo nhu cầu anh em tải. Một số bạn không tải được fshare nhờ anh em tải về up link khác dùm.<br />
+Cách up như các bản khác. Cuối tuần chúc anh em vui vẽ<img src="styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie7" alt=":p" title="Stick Out Tongue    :p" /><img src="styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie7" alt=":p" title="Stick Out Tongue    :p" /><img src="styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie7" alt=":p" title="Stick Out Tongue    :p" /><br />
+Cách up: bắt buộc phải ở trên nền rom stock 5.1.1 mới nhất theo từng máy, nếu đang ở v8 thì lên luôn và up như các bản khác</span></span><br />
+<span style="font-size: 18px"><span style="color: #0000ff">Link: </span><span style="color: #660000"><a href="https://www.fshare.vn/folder/3EI5THLADRFL" target="_blank" class="externalLink">https://www.fshare.vn/folder/3EI5THLADRFL</a></span></span>&#8203;</div>Chào cả nhà,<br />
+Link Google Drive cho V8.1:<a href="https://drive.google.com/file/d/0B0vqH_iPn64zVGx6WDEySFR6VXM/view?usp=sharing" target="_blank" class="externalLink">https://drive.google.com/file/d/0B0vqH_iPn64zVGx6WDEySFR6VXM/view?usp=sharing</a> thank <a href="http://sccn.vn/members/9260/" class="username" data-user="9260, @tobo">@tobo</a><br />
+<div style="text-align: left"><span style="font-size: 18px"><span style="font-size: 18px"><b>Kernel StockRider 2.2 cho ai cần (đã được tích hợp vào bản 8.1)</b><br />
+<a href="https://www.fshare.vn/file/VUAMZUYZV6UI" target="_blank" class="externalLink">https://www.fshare.vn/file/VUAMZUYZV6UI</a></span></span><br />
+&#8203;</div><div style="text-align: center"><span style="color: rgb(0, 0, 255)"><b><span style="font-size: 18px">ROM STOCK V8 24/09/2015</span></b></span>&#8203;</div><div style="text-align: left"><span style="font-size: 18px">      Rom được mod trên nền rom stock mới nhất của bản s. Tối ưu hệ thống, thêm một số thứ mới cho anh em dùng. Rom chỉ cần wipe cho sạch máy, flash rom chờ khởi động lại là chiến. 910 hay 916 điều up như nhau. Tại mình tích hợp kernel của 2 dòng trên luôn rồi. StockRider 2.1.</span>&#8203;</div><a href="https://drive.google.com/a/haugiang.edu.vn/file/d/0B1CpUatU5l9tOWhLd2t3TUN2WjA/view?usp=sharing" target="_blank" class="externalLink"><span style="font-size: 18px">https://drive.google.com/a/haugiang.edu.vn/file/d/0B1CpUatU5l9tOWhLd2t3TUN2WjA/view?usp=sharing</span></a><br />
+<br />
+<br />
+<b><span style="color: #5900b3">Recovery cho stock 5.1.1 tải về có file flash odin </span><br />
+Anh em odin recovery mới fix lại nhé. hết lỗi khởi động chữ đỏ nguồn matcl.com<br />
+<a href="http://www.matcl.com/?m=bbs&amp;bid=imbeded&amp;uid=270035&amp;" target="_blank" class="externalLink">http://www.matcl.com/?m=bbs&amp;bid=imbeded&amp;uid=270035&amp;</a><br />
+<a href="http://www.fshare.vn/file/21Q9U9DTS7CU" target="_blank" class="externalLink">http://www.fshare.vn/file/21Q9U9DTS7CU</a><br />
+SystemUI rom Stock N910S _ Base : N910SKSU1COI2<br />
+H+ ; Lock giữa; Bỏ Sfinder</b><br />
+Xài cho các<b> rom Stock, Mod </b>từ rom<b> N910S_ Base : <b>N910SKSU1COI2</b><br />
+Rom V7; V7.1; V8 ........ của NVA</b><br />
+Flash qua recovery.<br />
+<a href="https://drive.google.com/file/d/0BymXcmDRZdl9eTBVZFo2a3d5QUE/view?usp=sharing" target="_blank" class="externalLink">https://drive.google.com/file/d/0BymXcmDRZdl9eTBVZFo2a3d5QUE/view?usp=sharing</a><br />
+Thank you anh <a href="http://sccn.vn/members/4896/" class="username" data-user="4896, @Lelong3010">@Lelong3010</a><br />
+<br />
+<div style="text-align: center"><br />
+<b><span style="color: #ff0000">Rom Stock đủ bộ cho 910SLK (OL1)</span></b>&#8203;</div><div style="text-align: left"><b><b><span style="color: #ff0000"><a href="https://www.fshare.vn/folder/5EC9ZW9DP7NC" target="_blank" class="externalLink">https://www.fshare.vn/folder/5EC9ZW9DP7NC</a></span></b></b>&#8203;</div><br />
+<div style="text-align: center"><b><span style="color: #ff0000">STOCK ROM N910 LSK (5.1.1 OJ4, OJ5)</span></b>&#8203;</div><div style="text-align: left">N910L:<a href="https://drive.google.com/file/d/0B1JPhH0jzGe7cVdrTUJzc1g1aGs/view?usp=docslist_api" target="_blank" class="externalLink">https://drive.google.com/file/d/0B1JPhH0jzGe7cVdrTUJzc1g1aGs/view?usp=docslist_api</a><br />
+N910S: <a href="https://www.fshare.vn/file/BWF2P7IOKM6M" target="_blank" class="externalLink">https://www.fshare.vn/file/BWF2P7IOKM6M</a><br />
+N910K: <a href="https://www.fshare.vn/file/A93FLF4X4GNP" target="_blank" class="externalLink">https://www.fshare.vn/file/A93FLF4X4GNP</a><br />
+<br />
+Kinh Nghiệm Get link fshare <a href="http://sccn.vn/members/7903/" class="username" data-user="7903, @ngtam29">@ngtam29</a><br />
+2. Vấn đề tải link Fshare: mình có kinh nghiệm thế này, chia se cho các bác:<br />
+- dùng firefox vào trang linktocdo.com<br />
+- copy và dán link fshare cần tải, làm theo hướng dẫn của trang web cho đến bước cuối cùng là nhấn tải xuống, nhưng không nhấn<br />
+- nhớ tắt IDM, vào option của IDM bỏ firefox và chrome đi rồi mới nhấn tải về vì tải bằng IDM không được.<br />
+- khi Firefox bắt đầu tải thì thì kiểm tra tốc độ tải là bao nhiêu. Nếu dưới 500kB/s thì bấm ngừng lại. Copy link đang tải chuyển sang tải bằng chrome<br />
+mình làm cách này, firefox chỉ tải khoảng 100-200KB/s trong khi chuyển sang Chrome thì tải hơn 1500KB/s. Tải 1 bản rom chỉ khoảng 15-20 phút là xong.<br />
+NVA test thử nếu được đưa hướng dẫn lên #1 cho ae tham khảo thêm.<br />
+&#8203;</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/" title="Permalink" class="datePermalink"><span class="DateTime" title="3/3/15 lúc 13:09">3/3/15</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/79480/permalink">1</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-79480">
+	
+	<div class="likesSummary secondaryContent">
+		<span class="LikeText">
+			<a href="members/trmduc1001.11122/" class="username" dir="auto">trmduc1001</a>, <a href="members/norress123.11068/" class="username" dir="auto">norress123</a>, <a href="members/nam0702.10961/" class="username" dir="auto">Nam0702</a> and <a href="posts/79480/likes" class="OverlayTrigger">34 others</a> like this.
+		</span>
+	</div>
+</div>
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-79640" class="message  staff " data-author="Nguyễn Vũ Anh">
+
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock online">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="members/nguyen-vu-anh.193/" class="avatar Av193m" data-avatarhtml="true"><img src="data/avatars/m/0/193.jpg?1455769479" width="96" height="96" alt="Nguyễn Vũ Anh" /></a>
+			<span class="Tooltip onlineMarker" title="Online Now" data-offsetX="-22" data-offsetY="-8"></span>
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText">
+			<a href="members/nguyen-vu-anh.193/" class="username" dir="auto" itemprop="name"><span class="style3">Nguyễn Vũ Anh</span></a>
+			<em class="userTitle" itemprop="title">NOTE 4_N910S</em>
+			<em class="userBanner bannerStaff wrapped" itemprop="title"><span class="before"></span><strong>Ban Quản Trị</strong><span class="after"></span></em>
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Posts:</dt>
+						<dd><a href="search/member?user_id=193" class="concealed" rel="nofollow">3,683</a></dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>5,347</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<b><b><b><b><b><b><span style="font-size: 22px"><span style="color: #0080ff"><b><b><b><b><b><b><a href="https://www.fshare.vn/file/5BU4PZICXDTO" target="_blank" class="externalLink">Rom erobot v14 port cho n910slk_916slk</a></b></b></b></b></b></b><br />
+Rom erobot v13.4 port cho n910slk_916slk</span></span></b></b></b></b></b><br />
+<span style="font-size: 15px"><b><span style="color: #0000b3"><b><b><span style="font-size: 22px"><span style="color: rgb(255, 0, 0)"><b><b><a href="http://sccn.vn/threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/page-773#post-163061" class="internalLink">http://sccn.vn/threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/page-773#post-163061</a></b></b></span></span></b></b></span></b></span><br />
+<br />
+<span style="font-size: 15px"><b><span style="color: #0000b3"><b><b><span style="font-size: 22px"><span style="color: rgb(255, 0, 0)"><b><b>ROM XUÂN BÍNH THÂN 2016 (ROM PORT TỪ NỀN 920c) 06/02/2016</b></b></span></span></b></b></span></b></span><br />
+<span style="font-size: 15px"><b><span style="color: #0000b3"><b><b><span style="font-size: 22px"><span style="color: rgb(255, 0, 0)"><b><b>Chúc anh em một mùa xuân vui vẽ, hạnh phúc, an lành.</b></b></span></span></b></b></span></b></span><br />
+<span style="font-size: 15px"><b><span style="color: #0000b3"><b><b><span style="font-size: 22px"><span style="color: rgb(255, 0, 0)"><b>- Cách up: đề nghị làm đúng hướng dẫn đểkhông bị lỗi</b></span></span></b></b></span></b></span><br />
+<span style="font-size: 15px"><b><span style="color: #0000b3"><b><b><span style="font-size: 22px"><span style="color: rgb(255, 0, 0)"><b>- Cần trên nền rom 5.1.1</b></span></span></b></b></span></b></span><br />
+<span style="font-size: 15px"><b><span style="color: #0000b3"><b><b><span style="font-size: 22px"><span style="color: rgb(255, 0, 0)"><b>- Chép rom vào bộ nhớ máy hoặc thẻ nhớ</b></span></span></b></b></span></b></span><br />
+<span style="font-size: 15px"><b><span style="color: #0000b3"><b><b><span style="font-size: 22px"><span style="color: rgb(255, 0, 0)"><b>- Vào recovery full wipe flash rom,</b></span></span></b></b></span></b></span><br />
+<span style="font-size: 15px"><b><span style="color: #0000b3"><b><b><span style="font-size: 22px"><span style="color: rgb(255, 0, 0)"><b>- Lần đầu khởi động khá mau, mặt dù rom đã dexodex.</b></span></span></b></b></span></b></span><br />
+<span style="font-size: 15px"><b><span style="color: #0000b3"><b><b><span style="font-size: 22px"><span style="color: rgb(255, 0, 0)"><b>-link: <a href="http://sccn.vn/threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/page-758" class="internalLink">http://sccn.vn/threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/page-758</a></b></span></span></b></b></span></b></span><br />
+<br />
+<br />
+<span style="font-size: 15px"><b><span style="color: #0000b3"><b><b><span style="font-size: 22px"><span style="color: rgb(255, 0, 0)"><b>[ROM][AOJD][5.1.1][17/01]SIXPERIENCE N5 PORT STABLE V6.0 port CHO N910SLK</b></span></span></b></b></span></b></span><br />
+<span style="font-size: 15px"><b><span style="color: #0000b3"><b><b><span style="font-size: 22px"><span style="color: rgb(255, 0, 0)"><a href="https://drive.google.com/file/d/0BxGA2p3lQjvQcVJ6NjVKWjNlRDg/view?usp=sharing" target="_blank" class="externalLink">https://drive.google.com/file/d/0BxGA2p3lQjvQcVJ6NjVKWjNlRDg/view?usp=sharing</a></span></span></b></b></span></b></span><br />
+<br />
+<span style="font-size: 15px"><b><span style="color: #0000b3"><b><b><span style="font-size: 22px"><span style="color: rgb(255, 0, 0)">Link gốc cho N910C</span></span></b></b></span></b></span><br />
+<span style="font-size: 15px"><b><span style="color: #0000b3"><b><b><span style="font-size: 22px"><span style="color: rgb(255, 0, 0)"><a href="http://forum.xda-developers.com/note-4/development/rom-sixperience-n5-port-v1-0-beta-t3204460" target="_blank" class="externalLink">http://forum.xda-developers.com/note-4/development/rom-sixperience-n5-port-v1-0-beta-t3204460</a></span></span></b></b></span></b></span><br />
+<br />
+<span style="font-size: 15px"><b><span style="color: #0000b3"><b><b><span style="font-size: 22px"><span style="color: rgb(255, 0, 0)">Rom DN5 HAPPY NEW YEAR 2016 EDIT BY NVA (31/12/2015)</span></span></b></b></span></b></span><br />
+<span style="font-size: 15px"><b><span style="color: #0000b3"><b>Bản rom được làm trên nền DN5 của matcl edit cho máy N910SLK.</b></span></b><br />
+<b><span style="color: #0000b3"><b>- Up rom phải trên nền rom 5.1.1 xóa mục android trên bộ nhớ trong và thẻ nhớ trước khi up để tránh lỗi spen.</b></span></b><br />
+<b><span style="color: #0000b3"><b>- Dùng TWRP up rom.</b></span></b><br />
+<b><span style="color: #0000b3"><b>- Chép rom và kernel vào bộ nhớ</b></span></b><br />
+<b><span style="color: #0000b3"><b>- Vào recovery full wipe</b></span></b><br />
+<b><span style="color: #0000b3"><b>- Flash rom, flash tiếp kernel nếu đang dùng kernel stock</b></span></b><br />
+<b><span style="color: #0000b3"><b>- Khởi động lại.</b></span></b><br />
+<b><span style="color: #0000b3"><b>Link: <a href="https://www.fshare.vn/file/N5EC8UCU1B8U" target="_blank" class="externalLink">https://www.fshare.vn/file/N5EC8UCU1B8U</a></b></span></b><br />
+<b><span style="color: #0000b3">Link google cho bạn nào cần thank <a href="http://sccn.vn/members/9260/" class="username" data-user="9260, @tobo">@tobo</a>: </span></b><br />
+<b><span style="color: #0000b3"><a href="https://drive.google.com/file/d/0B0vqH_iPn64zQ0F2Z29yWlI0MW8/view?usp=sharing" target="_blank" class="externalLink">https://drive.google.com/file/d/0B0vqH_iPn64zQ0F2Z29yWlI0MW8/view?usp=sharing</a></span></b><br />
+<br />
+<b>N4 N910C-N910H XXU2COL2 TL68_ROM_V9.0.(HAPPY NEW YEAR)</b><br />
+<a href="http://sccn.vn/threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/page-623#post-158850" class="internalLink">http://sccn.vn/threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/page-623#post-158850</a><br />
+<br />
+<b><span style="color: #0000b3"><b>N4 N910C-N910H XXU2COJ5 TL68_ROM_V8.0.(HAPPY NEW YEAR) EDIT BY NVA FOR N910SLK_N916SLK</b></span></b><br />
+<b><span style="color: #0000b3"><b>CHANGGES LOG..</b></span></b><br />
+<b><span style="color: #0000b3">XXV_CSC..</span></b><br />
+<b><span style="color: #0000b3">_deodex all Rom....</span></b><br />
+<b><span style="color: #0000b3">_cai dat chan tin nhan....</span></b><br />
+<b><span style="color: #0000b3">_All man hinh cach S6egde....</span></b><br />
+<b><span style="color: #0000b3">_All Floating Message...</span></b><br />
+<b><span style="color: #0000b3">_Add Am lich +thoi tiet ngoai home screen....</span></b><br />
+<b><span style="color: #0000b3">_Add touchlight setting+notification....</span></b><br />
+<b><span style="color: #0000b3">_add Reboot 5wipe...</span></b><br />
+<b><span style="color: #0000b3">_Add chup cuon ...</span></b><br />
+<b><span style="color: #0000b3">_Add hieu ung launcher home ....</span></b><br />
+<b><span style="color: #0000b3">Add tool box 12app Max....</span></b><br />
+<b><span style="color: #0000b3">_Add Xposed..</span></b><br />
+<b><span style="color: #0000b3">_Add music Z5+viper...</span></b><br />
+<b><span style="color: #0000b3">_SystemUI Stock</span></b><br />
+<b><span style="color: #0000b3">_Mod analog Notification....</span></b><br />
+<b><span style="color: #0000b3">_Cam N4 Full....</span></b><br />
+<b><span style="color: #0000b3">_build prop....Add N5</span></b><br />
+<b><span style="color: #0000b3">_theme center N5.....</span></b><br />
+<br />
+<b><span style="color: #0000b3">_Link: <a href="https://www.fshare.vn/file/LXMZV6XWIK17" target="_blank" class="externalLink">https://www.fshare.vn/file/LXMZV6XWIK17</a></span></b><br />
+<b><span style="color: #0000b3">Link Flat style Bar pro 1.3.0 cho ae cần..</span></b><br />
+<b><span style="color: #0000b3">( </span></b><br />
+<b><span style="color: #0000b3"><img src="http://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.dropbox.com" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.dropbox.com" /><a href="http://samsungviet.vn/xfa-interstitial/redirect?url=https%3A%2F%2Fwww.dropbox.com%2Fs%2F5ib397ev2643kkq%2FFlat%2520Style%2520Bar%2520Indicators%2520Pro%2520v1.3.0%2520indexapk.net.apk%3Fdl%3D0" target="_blank" class="externalLink">Dropbox - Flat Style Bar Indicators Pro v1.3.0 indexapk.net.apk</a></span></b><br />
+<b><span style="color: #0000b3">)</span></b><br />
+<br />
+<b><span style="color: #0000b3">Chúc ae vui vẽ trải nghiệm quà noel&amp;tết tây......<img src="styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie8" alt=":D" title="Big Grin    :D" /><img src="styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie8" alt=":D" title="Big Grin    :D" /><img src="styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie8" alt=":D" title="Big Grin    :D" /></span></b><br />
+<br />
+<b><span style="color: #0000b3">ROM EDIT NGOC LOI</span></b><br />
+<b><span style="color: #0000b3">Rom dn5 lên từ nền 920S nên hợp với anh em máy hàn hơn...âm thoại rõ ràng...dùng chưa thấy hiện tượng đơ máy..mát...mình biết đến vậy còn anh em vừa dùng vừa cảm nhận...cảm ơn chủ top giúp đỡ nhiều...trong khi dùng có gì kg hiểu nhờ chủ tóp hỗ trợ anh em và mình thêm</span></b><br />
+<b><span style="color: #0000b3"><a href="https://www.fshare.vn/file/TSAOA6RYBFUP" target="_blank" class="externalLink">https://www.fshare.vn/file/TSAOA6RYBFUP</a>                       </span></b><br />
+<br />
+<br />
+<b><span style="color: #0000b3"><b>                  ROM MOD BY <a href="http://sccn.vn/members/4896/" class="username" data-user="4896, @Lelong3010">@Lelong3010</a></b></span></b><br />
+<b><span style="color: #0000b3">-Fix hết các lỗi cho đến hiện tại so với rom gốc và các rom N5 port khác</span></b><br />
+<b><span style="color: #0000b3">1. Máy ảnh hoạt động hết các chức năng ( trừ chế độ chuyên nghiệp + l chỉnh sáng tối)</span></b><br />
+<b><span style="color: #0000b3">2.Việt hóa các phần còn lại trong settings ( trừ ListView antimation do chưa hoạt động )</span></b><br />
+<b><span style="color: #0000b3">3. Add thêm vài chức năng trong Chuyển động và thao tác</span></b><br />
+<b><span style="color: #0000b3">4. Các hiệu ứng mở khóa hoạt động đầy đủ</span></b><br />
+<b><span style="color: #0000b3">5. Add Theme Store mới.</span></b><br />
+<b><span style="color: #0000b3">7. Từ điển và Quà tặng Galaxy hoạt động như N910C ( lấy code thoải mái nếu còn điểm )</span></b><br />
+<b><span style="color: #0000b3">8. Add màn hình cạnh + All pop-up + bo cạnh SystemUI</span></b><br />
+<b><span style="color: #0000b3">9. Fix lỗi Snote ( chia sẻ, viết trên file PDF )</span></b><br />
+<b><span style="color: #0000b3">10. Add Quản lý thông minh mới ( 2 widget+ 8 tính năng đều hoạt động)</span></b><br />
+<b><span style="color: #0000b3">11. Add Thời tiết Âm lịch của <a href="http://sccn.vn/members/1687/" class="username" data-user="1687, @thanhfhuongf">@thanhfhuongf</a> ( thank em trai )<img src="http://emoji.tapatalk-cdn.com/emoji14.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://emoji.tapatalk-cdn.com/emoji14.png" /></span></b><br />
+<b><span style="color: #0000b3">12. Edit lại Samsettings + SystemUI+ 3minit của@toanluu68 ( thank bạn già )<img src="styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie1" alt=":)" title="Smile    :)" /></span></b><br />
+<b><span style="color: #0000b3">13. Add font Việt hóa của @<a href="http://samsungviet.vn/members/nick-sam368.11315/" target="_blank" class="externalLink">nick.sam368</a> ( thank em trai )<img src="styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie2" alt=";)" title="Wink    ;)" /></span></b><br />
+<b><span style="color: #0000b3"><b>CÁCH FLASH ROM</b></span></b><br />
+<b><span style="color: #0000b3">1. Flash rom ; kernel; SuperSU (nếu muốn), không flash cũng được.</span></b><br />
+<b><span style="color: #0000b3"><b>Riêng N916SLK phải flash thêm kernel của N916</b></span></b><br />
+<b><span style="color: #0000b3">2. Rom giử nguyên SystemUI gốc nếu bạn nào thích SystemUI mod thi flash thêm CustomSettings.</span></b><br />
+<b><span style="color: #0000b3"><b>CÀI ĐẶT TW HOME và Đồng hồ.</b></span></b><br />
+<b><span style="color: #0000b3">........</span></b><br />
+<br />
+<b><span style="color: #0000b3">Sau khi flash Rom vào màn hình Home, các bạn thiết lập cho TW Home như sau:</span></b><br />
+<b><span style="color: #0000b3">1.Nhấn giữ màn hình Home , màn hình sẽ hiện ra như hình 1</span></b><br />
+<b><span style="color: #0000b3">2. BẤm chọn Cài đặt màn hình ( H 2)</span></b><br />
+<b><span style="color: #0000b3">3.Bấm chọn Hiển thị màn hình ứng dụng riêng (H3). BẤm Lưu =&gt; OK..</span></b><br />
+<b><span style="color: #0000b3">4. Muốn thiết lập các hiệu ứng thì làm lại bước 1 và chọn Cài đặt để vào Cài đặt Màn hình chờ =&gt; Thiết lập các hiệu ứng cho TW Home.</span></b><br />
+<b><span style="color: #0000b3">**LƯU Ý : - Phải chọn Hiển thị màn hình ứng dụng riêng thì mới Thiết lập hiệu ứng được. Các bạn chọn Hiển thị tất cả trên màn hình chờ sẽ bị fc Home khi vào CÀi đặt để thiết lập hiệu ứng.</span></b><br />
+<b><span style="color: #0000b3">Trong phần hiệu ứng có phần hiệm Màn hình dạng âm bản. Nếu không thích ( hoặc khi xuất hiện Màn hình âm bản ) thì các bạn nhấn đúp 3 lần phím Menu, nó sẽ quay về bình thường. Ngoài ra , các bạn có thể chọn khung lưới màn hình ở loại 4x4; 4x5; 5x5 (H2)</span></b><br />
+<br />
+<b><span style="color: #0000b3"><img src="http://images.tapatalk-cdn.com/15/12/04/517b6fc1a6ae9e7f7807f4c98c8d44fe.jpg" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://images.tapatalk-cdn.com/15/12/04/517b6fc1a6ae9e7f7807f4c98c8d44fe.jpg" /><img src="http://images.tapatalk-cdn.com/15/12/04/77bf44aa62c70529245cc540f6eb2e88.jpg" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://images.tapatalk-cdn.com/15/12/04/77bf44aa62c70529245cc540f6eb2e88.jpg" /><img src="http://images.tapatalk-cdn.com/15/12/04/d6ad88d1f1f9c0b09bb6ad4502b1a7b2.jpg" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://images.tapatalk-cdn.com/15/12/04/d6ad88d1f1f9c0b09bb6ad4502b1a7b2.jpg" /><img src="http://images.tapatalk-cdn.com/15/12/04/d492463849b86e61925df1d5b351bb18.jpg" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://images.tapatalk-cdn.com/15/12/04/d492463849b86e61925df1d5b351bb18.jpg" /><img src="http://images.tapatalk-cdn.com/15/12/04/40ddaa309df66f7323f709413e84c99d.jpg" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://images.tapatalk-cdn.com/15/12/04/40ddaa309df66f7323f709413e84c99d.jpg" /><img src="http://images.tapatalk-cdn.com/15/12/04/3d67d0a656f1370a929e215dd6914b45.jpg" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://images.tapatalk-cdn.com/15/12/04/3d67d0a656f1370a929e215dd6914b45.jpg" /><img src="http://images.tapatalk-cdn.com/15/12/04/887311a98d07cdafc79541d02aa9701f.jpg" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://images.tapatalk-cdn.com/15/12/04/887311a98d07cdafc79541d02aa9701f.jpg" /></span></b><br />
+<b><span style="color: #0000b3">................</span></b><br />
+<b><span style="color: #0000b3"><b>A/ ROM.</b></span></b><br />
+<b><span style="color: #0000b3"><a href="https://drive.google.com/file/d/0BymXcmDRZdl9YlFkbDRIOWRVVzQ/view?usp=sharing" target="_blank" class="externalLink">https://drive.google.com/file/d/0BymXcmDRZdl9YlFkbDRIOWRVVzQ/view?usp=sharing</a></span></b><br />
+<b><span style="color: #0000b3"><b>B/ KERNEL</b></span></b><br />
+<b><span style="color: #0000b3"><a href="http://samsungviet.vn/xfa-interstitial/redirect?url=http%3A%2F%2Fenfree.com%2Fstockrider%2Fchangelog.html" target="_blank" class="externalLink">http://enfree.com/stockrider/changelog.html</a></span></b><br />
+<b><span style="color: #0000b3"><b>C/ SUPERSU V2.56</b></span></b><br />
+<b><span style="color: #0000b3"><a href="https://drive.google.com/file/d/0BymXcmDRZdl9cWNBSW5PT0JWanc/view?usp=sharing" target="_blank" class="externalLink">SuperSU-v2.56.zip - Google Drive</a></span></b><br />
+<b><span style="color: #0000b3"><b>D/ CUSTOMSETTINGS</b></span></b><br />
+<b><span style="color: #0000b3">- SystemUI Sao + Signal<img src="styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie12" alt="o_O" title="Er... what?    o_O" /></span></b><br />
+<b><span style="color: #0000b3"><a href="https://drive.google.com/file/d/0BymXcmDRZdl9UVRkMXdkaG93UFk/view?usp=sharing" target="_blank" class="externalLink">CustomSettings_DN5_V0.5LL_Sao+Signal.zip - Google Drive</a></span></b><br />
+<b><span style="color: #0000b3">- SystemUI Sao + Trăng <img src="styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie2" alt=";)" title="Wink    ;)" /></span></b><br />
+<b><span style="color: #0000b3"><a href="https://drive.google.com/file/d/0BymXcmDRZdl9SzNqbWNtcVNSNVk/view?usp=sharing" target="_blank" class="externalLink">CustomSettings_DN5_V0.5LL_Sao+Trang.zip - Google Drive</a></span></b><br />
+<br />
+<b><span style="color: #0000b3">ROM V7 CỦA ANH TOANLUU PORT CHO MÁY HÀN 3/12/2015</span></b><br />
+<b><span style="color: #0000b3">Bản rom này được sự cho phép của chủ rom @toanluu(thank anh) nên mình port lại cho anh em dùng. Rất nhiều đồ chơi cho anh em. Mình đã fix âm thanh và fix nóng máy nên âm tốt, máy mát cảm nhận ban đầu đây là bản rom rất đáng up. Pin chưa đánh giá được phải qua vài dòng pin thì mới ok.</span></b><br />
+<b><span style="color: #0000b3">Cách up bắt buột phải trên nền 5.1.1</span></b><br />
+<b><span style="color: #0000b3">- Chép rom vào bộ nhớ, vào recovery 4 wipe flash rom và khởi động lại.</span></b><br />
+<b><span style="color: #0000b3">- Nếu chưa có stockRider kernel thì flash thêm. Máy có rồi thì không cần</span></b><br />
+<b><span style="color: #0000b3">Link:</span></b><br />
+<b><span style="color: #0000b3"><a href="https://www.fshare.vn/file/D7L5ONZRI2HZ" target="_blank" class="externalLink">https://www.fshare.vn/file/D7L5ONZRI2HZ</a></span></b><br />
+<b>link google cho bạn nào cần thank <a href="http://sccn.vn/members/7903/" class="username" data-user="7903, @ngtam29">@ngtam29</a></b><br />
+<b><a href="https://drive.google.com/file/d/0B-EZXujLMAGBQzk3cl9DNXVkV0U/view?usp=sharing" target="_blank" class="externalLink">https://drive.google.com/file/d/0B-EZXujLMAGBQzk3cl9DNXVkV0U/view?usp=sharing</a></b><br />
+<br />
+<br />
+<br />
+<b><span style="color: #0000b3">ROM NOTE 5 PORT DN V0.5 XDA (25/11/2015)</span></b><br />
+<span style="color: #000000">Rom Port DN5 V0.5 fix lại cho anh em note hàn, một bản ful theo tác giả của rom không thêm bỏ gì chỉ fix ngôn ngữ và âm thanh cho anh em, còn một bản đã xóa một số app không cần thiết theo mình rom giống thuần stock không nhiều đồ chới như six rom, enh em nào thích đơn giản thì flash nhé, còn muốn đồ chơi thì tự kiếm hihi<br />
+Link: <br />
+1. Bản rút gọn: </span><a href="https://www.fshare.vn/file/OI75XXLYSR55" target="_blank" class="externalLink"><span style="color: rgb(0, 0, 0)">https://www.fshare.vn/file/OI75XXLYSR55</span></a><br />
+<span style="color: #000000">2. Bản full nguyên gốc: </span><a href="https://www.fshare.vn/file/T4RAU5UK2AXK" target="_blank" class="externalLink"><span style="color: rgb(0, 0, 0)">https://www.fshare.vn/file/T4RAU5UK2AXK</span></a><br />
+<span style="color: #000000">3. Kernel: </span><b><span style="color: rgb(0, 0, 0)"><a href="http://enfree.com/stockrider/changelog.html" target="_blank" class="externalLink">http://enfree.com/stockrider/changelog.html</a></span></b><br />
+<b><a href="http://www.mediafire.com/download/ra5ojtvt19y7hh3/StockRider_Kernel_v2.8.0.zip" target="_blank" class="externalLink">http://www.mediafire.com/download/ra5ojtvt19y7hh3/StockRider_Kernel_v2.8.0.zip</a></b><br />
+<span style="color: #000000">cách flash: Trên nền rom mới nhất 5.1.1 (OJ)<br />
+- Xóa mục android trên bộ nhớ trong và thẻ nhớ trước khi up để tránh lỗi spen.<br />
+- Dùng TWRP up rom.<br />
+- Chép rom vào bộ nhớ<br />
+- Vào recovery full wipe<br />
+- Flash rom, flash tiếp kernel (nếu đã có kernel StockRider mới rồi thì không cần)<br />
+- Khởi động lại.</span></span><br />
+<span style="font-size: 22px"><span style="color: rgb(255, 0, 0)"><br />
+Rom Port Note5 (27/10/2015)</span></span></b><br />
+Bản rom được làm trên nền 920C thuần stock cho anh em N910SLK.<br />
+- Up rom phải trên nền rom 5.1.1 xóa mục android trên bộ nhớ trong và thẻ nhớ trước khi up để tránh lỗi spen.<br />
+- Dùng TWRP up rom.<br />
+- Chép rom và kernel vào bộ nhớ<br />
+- Vào recovery full wipe<br />
+- Flash rom, flash tiếp kernel<br />
+- Khởi động lại.<br />
+Link rom: <a href="https://www.fshare.vn/file/FX4HUL3DEI5T" target="_blank" class="externalLink">https://www.fshare.vn/file/FX4HUL3DEI5T</a><br />
+Link Kernel V2.5.0 : <a href="https://app.box.com/s/j1gk4htufo74lkwxgr7ys5bicu7h9c6o" target="_blank" class="externalLink">https://app.box.com/s/j1gk4htufo74lkwxgr7ys5bicu7h9c6o</a><br />
+<br />
+<b><span style="color: #ff0000">Hướng dẫn cài theme Marvel cho rom V11 và rom port note 5 (chưa test).</span></b><br />
+<span style="color: #ff0000">Tải file </span><br />
+<a href="https://www.androidfilehost.com/?fid=24052804347839592" target="_blank" class="externalLink">https://www.androidfilehost.com/?fid=24052804347839592</a><br />
+Giải nén dùng titanbackup restore theme (tốt nhất dùng bản pro tự kiếm) nhớ chọn restore app+data theme mới full được nhé .Sau khi restore dùng root explore vào <b>data/overlays/jsonfiles</b> di chuyển các file trong thư mục <b>trialjson</b> sang <b>userjson. </b>Thế là có bộ theme siêu anh hùng full rồi quá đơn giản. Sau khi chọn theme nhớ khởi động lại cho nó full nhé.<br />
+Nguồn xda <a href="http://forum.xda-developers.com/note-4/themes-apps/marvel-theme-note-5-rom-ports-t3226385" target="_blank" class="externalLink">http://forum.xda-developers.com/note-4/themes-apps/marvel-theme-note-5-rom-ports-t3226385</a>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+			<div class="editDate">
+			
+				Chỉnh sửa cuối: <span class="DateTime" title="7/3/16 lúc 08:18">7/3/16</span>
+			
+			</div>
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/#post-79640" title="Permalink" class="datePermalink"><span class="DateTime" title="3/3/15 lúc 17:09">3/3/15</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/#post-79640" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/79640/permalink">2</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-79640">
+	
+	<div class="likesSummary secondaryContent">
+		<span class="LikeText">
+			<a href="members/trmduc1001.11122/" class="username" dir="auto">trmduc1001</a>, <a href="members/ngocmanh891.11028/" class="username" dir="auto">ngocmanh891</a>, <a href="members/trivohdv.10652/" class="username" dir="auto">trivohdv</a> and <a href="posts/79640/likes" class="OverlayTrigger">7 others</a> like this.
+		</span>
+	</div>
+</div>
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-79700" class="message  staff " data-author="Nguyễn Vũ Anh">
+
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock online">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="members/nguyen-vu-anh.193/" class="avatar Av193m" data-avatarhtml="true"><img src="data/avatars/m/0/193.jpg?1455769479" width="96" height="96" alt="Nguyễn Vũ Anh" /></a>
+			<span class="Tooltip onlineMarker" title="Online Now" data-offsetX="-22" data-offsetY="-8"></span>
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText">
+			<a href="members/nguyen-vu-anh.193/" class="username" dir="auto" itemprop="name"><span class="style3">Nguyễn Vũ Anh</span></a>
+			<em class="userTitle" itemprop="title">NOTE 4_N910S</em>
+			<em class="userBanner bannerStaff wrapped" itemprop="title"><span class="before"></span><strong>Ban Quản Trị</strong><span class="after"></span></em>
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Posts:</dt>
+						<dd><a href="search/member?user_id=193" class="concealed" rel="nofollow">3,683</a></dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>5,347</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<span style="font-size: 22px"><span style="color: #ff0000"><b>Dual boot</b></span></span><br />
+<b><span style="font-size: 18px"><span style="color: #000000">Xong rùi, anh em nào muốn chơi Dual Boot thì làm theo ở đây nhé.<br />
+<br />
+<a href="http://sccn.vn/threads/huong-dan-cai-dualboots-rom-tren-n910-slk-bang-hinh-anh.17701/#post-161684" class="internalLink">http://sccn.vn/threads/huong-dan-cai-dualboots-rom-tren-n910-slk-bang-hinh-anh.17701/#post-161684</a><br />
+<br />
+Do mình chưa có time test bản Dual Boot Patcher mới nhất nên ko bít có rút gọn được bước nào ko, nếu có thì anh em bổ sung để mình chỉnh nhé. Mục tiêu đơn giản, gọn và dễ làm.</span></span><br />
+<span style="font-size: 22px"><span style="color: #ff0000"><b><span style="font-size: 22px"><span style="color: rgb(255, 0, 0)">Kernel StockRider và xposed</span></span></b></span></span><br />
+<a href="http://enfree.com/stockrider/changelog.html" target="_blank" class="externalLink">http://enfree.com/stockrider/changelog.html</a><br />
+Link tải Xplosed để up qua Recovery mới nhất: <a href="http://forum.xda-developers.com/xposed/unofficial-xposed-samsung-lollipop-t3180960" target="_blank" class="externalLink">http://forum.xda-developers.com/xposed/unofficial-xposed-samsung-lollipop-t3180960</a></b>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+			<div class="editDate">
+			
+				Chỉnh sửa cuối: <span class="DateTime" title="25/1/16 lúc 12:10">25/1/16</span>
+			
+			</div>
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/#post-79700" title="Permalink" class="datePermalink"><span class="DateTime" title="3/3/15 lúc 17:45">3/3/15</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/#post-79700" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/79700/permalink">3</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-79700">
+	
+	<div class="likesSummary secondaryContent">
+		<span class="LikeText">
+			<a href="members/lephuc383.10829/" class="username" dir="auto">lephuc383</a>, <a href="members/quyennd82.3493/" class="username" dir="auto">quyennd82</a>, <a href="members/trivohdv.10652/" class="username" dir="auto">trivohdv</a> and <a href="posts/79700/likes" class="OverlayTrigger">4 others</a> like this.
+		</span>
+	</div>
+</div>
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-79821" class="message  staff " data-author="Nguyễn Vũ Anh">
+
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock online">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="members/nguyen-vu-anh.193/" class="avatar Av193m" data-avatarhtml="true"><img src="data/avatars/m/0/193.jpg?1455769479" width="96" height="96" alt="Nguyễn Vũ Anh" /></a>
+			<span class="Tooltip onlineMarker" title="Online Now" data-offsetX="-22" data-offsetY="-8"></span>
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText">
+			<a href="members/nguyen-vu-anh.193/" class="username" dir="auto" itemprop="name"><span class="style3">Nguyễn Vũ Anh</span></a>
+			<em class="userTitle" itemprop="title">NOTE 4_N910S</em>
+			<em class="userBanner bannerStaff wrapped" itemprop="title"><span class="before"></span><strong>Ban Quản Trị</strong><span class="after"></span></em>
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Posts:</dt>
+						<dd><a href="search/member?user_id=193" class="concealed" rel="nofollow">3,683</a></dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>5,347</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div class="bbCodeBlock bbCodeQuote" data-author="Huy Lê">
+	<aside>
+		
+			<div class="attribution type">Huy Lê nói:
+				
+					<a href="goto/post?id=79746#post-79746" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Vụ UI ok k bác. Mình k có test thử<br />
+<br />
+Gửi từ SM-N910K using H-K</div><div class="quoteExpand">Mở rộng</div></blockquote>
+	</aside>
+</div>Ngon quá bác ơi. Thank bác nhiều mai mình làm bản past cho anh em nào muốn đổi icon.<img src="styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie8" alt=":D" title="Big Grin    :D" />
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+			<div class="editDate">
+			
+				Chỉnh sửa cuối: <span class="DateTime" title="3/3/15 lúc 21:29">3/3/15</span>
+			
+			</div>
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/#post-79821" title="Permalink" class="datePermalink"><span class="DateTime" title="3/3/15 lúc 21:17">3/3/15</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/#post-79821" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/79821/permalink">4</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-79821">
+	
+	<div class="likesSummary secondaryContent">
+		<span class="LikeText">
+			<a href="members/vandieutot.3/" class="username" dir="auto">vandieutot</a> and <a href="members/huy-le.4522/" class="username" dir="auto">Huy Lê</a> like this.
+		</span>
+	</div>
+</div>
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-79831" class="message   " data-author="Huy Lê">
+
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="members/huy-le.4522/" class="avatar Av4522m" data-avatarhtml="true"><img src="data/avatars/m/4/4522.jpg?1437215338" width="96" height="96" alt="Huy Lê" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText">
+			<a href="members/huy-le.4522/" class="username" dir="auto" itemprop="name"><span class="style9">Huy Lê</span></a>
+			<em class="userTitle" itemprop="title">Developer</em>
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Posts:</dt>
+						<dd><a href="search/member?user_id=4522" class="concealed" rel="nofollow">767</a></dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>1,292</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div class="bbCodeBlock bbCodeQuote" data-author="nguyenvuanh_789">
+	<aside>
+		
+			<div class="attribution type">nguyenvuanh_789 nói:
+				
+					<a href="goto/post?id=79821#post-79821" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Ngon quá bác ơi. Thank bác nhiều mai mình làm bản past cho anh em nào muốn đổi icon.<img src="styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie8" alt=":D" title="Big Grin    :D" /></div><div class="quoteExpand">Mở rộng</div></blockquote>
+	</aside>
+</div>Hehe. Ae nào kích thíc k<br />
+<br />
+<img src="http://tapatalk.imageshack.com/v2/15/03/03/60e8c1bec90315a08552f89f0634d92e.jpg" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://tapatalk.imageshack.com/v2/15/03/03/60e8c1bec90315a08552f89f0634d92e.jpg" /><br />
+<br />
+Gửi từ SM-N910K using H-K
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/#post-79831" title="Permalink" class="datePermalink"><span class="DateTime" title="3/3/15 lúc 21:38">3/3/15</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/#post-79831" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/79831/permalink">5</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-79831">
+	
+	<div class="likesSummary secondaryContent">
+		<span class="LikeText">
+			<a href="members/banchat9x.8227/" class="username" dir="auto">banchat9x</a>, <a href="members/ngocloi.5436/" class="username" dir="auto">ngocloi</a>, <a href="members/nguyen-kim-long.5218/" class="username" dir="auto">Nguyễn Kim Long</a> and <a href="posts/79831/likes" class="OverlayTrigger">3 others</a> like this.
+		</span>
+	</div>
+</div>
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-79861" class="message  staff " data-author="vandieutot">
+
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock online">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="members/vandieutot.3/" class="avatar Av3m" data-avatarhtml="true"><img src="data/avatars/m/0/3.jpg?1425182801" width="96" height="96" alt="vandieutot" /></a>
+			<span class="Tooltip onlineMarker" title="Online Now" data-offsetX="-22" data-offsetY="-8"></span>
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText">
+			<a href="members/vandieutot.3/" class="username" dir="auto" itemprop="name"><span class="style7">vandieutot</span></a>
+			<em class="userTitle" itemprop="title">Ban Quản Trị</em>
+			<em class="userBanner bannerStaff wrapped" itemprop="title"><span class="before"></span><strong>Ban Quản Trị</strong><span class="after"></span></em>
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Posts:</dt>
+						<dd><a href="search/member?user_id=3" class="concealed" rel="nofollow">8,603</a></dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>11,126</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div class="bbCodeBlock bbCodeQuote" data-author="Huy Lê">
+	<aside>
+		
+			<div class="attribution type">Huy Lê nói:
+				
+					<a href="goto/post?id=79831#post-79831" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Hehe. Ae nào kích thíc k<br />
+<br />
+<img src="http://tapatalk.imageshack.com/v2/15/03/03/60e8c1bec90315a08552f89f0634d92e.jpg" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://tapatalk.imageshack.com/v2/15/03/03/60e8c1bec90315a08552f89f0634d92e.jpg" /><br />
+<br />
+Gửi từ SM-N910K using H-K</div><div class="quoteExpand">Mở rộng</div></blockquote>
+	</aside>
+</div>Bác làm thế thì ai chả kích thích hả bác hê hê
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/#post-79861" title="Permalink" class="datePermalink"><span class="DateTime" title="3/3/15 lúc 22:16">3/3/15</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/#post-79861" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/79861/permalink">6</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-79861">
+	
+	<div class="likesSummary secondaryContent">
+		<span class="LikeText">
+			<a href="members/nguyen-vu-anh.193/" class="username" dir="auto">Nguyễn Vũ Anh</a> and <a href="members/huy-le.4522/" class="username" dir="auto">Huy Lê</a> like this.
+		</span>
+	</div>
+</div>
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-80146" class="message  staff " data-author="Nguyễn Vũ Anh">
+
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock online">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="members/nguyen-vu-anh.193/" class="avatar Av193m" data-avatarhtml="true"><img src="data/avatars/m/0/193.jpg?1455769479" width="96" height="96" alt="Nguyễn Vũ Anh" /></a>
+			<span class="Tooltip onlineMarker" title="Online Now" data-offsetX="-22" data-offsetY="-8"></span>
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText">
+			<a href="members/nguyen-vu-anh.193/" class="username" dir="auto" itemprop="name"><span class="style3">Nguyễn Vũ Anh</span></a>
+			<em class="userTitle" itemprop="title">NOTE 4_N910S</em>
+			<em class="userBanner bannerStaff wrapped" itemprop="title"><span class="before"></span><strong>Ban Quản Trị</strong><span class="after"></span></em>
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Posts:</dt>
+						<dd><a href="search/member?user_id=193" class="concealed" rel="nofollow">3,683</a></dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>5,347</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div class="bbCodeBlock bbCodeQuote" data-author="Huy Lê">
+	<aside>
+		
+			<div class="attribution type">Huy Lê nói:
+				
+					<a href="goto/post?id=79831#post-79831" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Hehe. Ae nào kích thíc k<br />
+<br />
+<img src="http://tapatalk.imageshack.com/v2/15/03/03/60e8c1bec90315a08552f89f0634d92e.jpg" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://tapatalk.imageshack.com/v2/15/03/03/60e8c1bec90315a08552f89f0634d92e.jpg" /><br />
+<br />
+Gửi từ SM-N910K using H-K</div><div class="quoteExpand">Mở rộng</div></blockquote>
+	</aside>
+</div>Làm bản rom cho anh em đi bác
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/#post-80146" title="Permalink" class="datePermalink"><span class="DateTime" title="4/3/15 lúc 04:57">4/3/15</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/#post-80146" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/80146/permalink">7</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-80146">
+	
+	<div class="likesSummary secondaryContent">
+		<span class="LikeText">
+			<a href="members/vandieutot.3/" class="username" dir="auto">vandieutot</a> thích bài này.
+		</span>
+	</div>
+</div>
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-80166" class="message  staff " data-author="vandieutot">
+
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock online">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="members/vandieutot.3/" class="avatar Av3m" data-avatarhtml="true"><img src="data/avatars/m/0/3.jpg?1425182801" width="96" height="96" alt="vandieutot" /></a>
+			<span class="Tooltip onlineMarker" title="Online Now" data-offsetX="-22" data-offsetY="-8"></span>
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText">
+			<a href="members/vandieutot.3/" class="username" dir="auto" itemprop="name"><span class="style7">vandieutot</span></a>
+			<em class="userTitle" itemprop="title">Ban Quản Trị</em>
+			<em class="userBanner bannerStaff wrapped" itemprop="title"><span class="before"></span><strong>Ban Quản Trị</strong><span class="after"></span></em>
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Posts:</dt>
+						<dd><a href="search/member?user_id=3" class="concealed" rel="nofollow">8,603</a></dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>11,126</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div class="bbCodeBlock bbCodeQuote" data-author="nguyenvuanh_789">
+	<aside>
+		
+			<div class="attribution type">nguyenvuanh_789 nói:
+				
+					<a href="goto/post?id=80146#post-80146" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Làm bản rom cho anh em đi bác</div><div class="quoteExpand">Mở rộng</div></blockquote>
+	</aside>
+</div>Khi nào anh ra bản V2 cho anh em vậy anh ơi.
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/#post-80166" title="Permalink" class="datePermalink"><span class="DateTime" title="4/3/15 lúc 08:02">4/3/15</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/#post-80166" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/80166/permalink">8</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-80166">
+	
+	<div class="likesSummary secondaryContent">
+		<span class="LikeText">
+			<a href="members/huy-le.4522/" class="username" dir="auto">Huy Lê</a> and <a href="members/nguyen-vu-anh.193/" class="username" dir="auto">Nguyễn Vũ Anh</a> like this.
+		</span>
+	</div>
+</div>
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-80254" class="message  staff " data-author="Nguyễn Vũ Anh">
+
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock online">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="members/nguyen-vu-anh.193/" class="avatar Av193m" data-avatarhtml="true"><img src="data/avatars/m/0/193.jpg?1455769479" width="96" height="96" alt="Nguyễn Vũ Anh" /></a>
+			<span class="Tooltip onlineMarker" title="Online Now" data-offsetX="-22" data-offsetY="-8"></span>
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText">
+			<a href="members/nguyen-vu-anh.193/" class="username" dir="auto" itemprop="name"><span class="style3">Nguyễn Vũ Anh</span></a>
+			<em class="userTitle" itemprop="title">NOTE 4_N910S</em>
+			<em class="userBanner bannerStaff wrapped" itemprop="title"><span class="before"></span><strong>Ban Quản Trị</strong><span class="after"></span></em>
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Posts:</dt>
+						<dd><a href="search/member?user_id=193" class="concealed" rel="nofollow">3,683</a></dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>5,347</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div class="bbCodeBlock bbCodeQuote" data-author="vandieutot">
+	<aside>
+		
+			<div class="attribution type">vandieutot nói:
+				
+					<a href="goto/post?id=80166#post-80166" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Khi nào anh ra bản V2 cho anh em vậy anh ơi.</div><div class="quoteExpand">Mở rộng</div></blockquote>
+	</aside>
+</div>Em ra bản V4 trước đi. Tuần anh anh nhiều việc lắm không làm được đâu
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/#post-80254" title="Permalink" class="datePermalink"><span class="DateTime" title="4/3/15 lúc 09:59">4/3/15</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/#post-80254" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/80254/permalink">9</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-80254">
+	
+	<div class="likesSummary secondaryContent">
+		<span class="LikeText">
+			<a href="members/nam_pro1102.25/" class="username" dir="auto">nam_pro1102</a>, <a href="members/huy-le.4522/" class="username" dir="auto">Huy Lê</a> and <a href="members/vandieutot.3/" class="username" dir="auto">vandieutot</a> like this.
+		</span>
+	</div>
+</div>
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-80257" class="message  staff " data-author="vandieutot">
+
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock online">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="members/vandieutot.3/" class="avatar Av3m" data-avatarhtml="true"><img src="data/avatars/m/0/3.jpg?1425182801" width="96" height="96" alt="vandieutot" /></a>
+			<span class="Tooltip onlineMarker" title="Online Now" data-offsetX="-22" data-offsetY="-8"></span>
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText">
+			<a href="members/vandieutot.3/" class="username" dir="auto" itemprop="name"><span class="style7">vandieutot</span></a>
+			<em class="userTitle" itemprop="title">Ban Quản Trị</em>
+			<em class="userBanner bannerStaff wrapped" itemprop="title"><span class="before"></span><strong>Ban Quản Trị</strong><span class="after"></span></em>
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Posts:</dt>
+						<dd><a href="search/member?user_id=3" class="concealed" rel="nofollow">8,603</a></dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>11,126</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div class="bbCodeBlock bbCodeQuote" data-author="nguyenvuanh_789">
+	<aside>
+		
+			<div class="attribution type">nguyenvuanh_789 nói:
+				
+					<a href="goto/post?id=80254#post-80254" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Em ra bản V4 trước đi. Tuần anh anh nhiều việc lắm không làm được đâu</div><div class="quoteExpand">Mở rộng</div></blockquote>
+	</aside>
+</div>Em còn chưa biết nên làm V4 thế nào cả anh ạ. Nên tạm thời em nghiên cứu mấy cái mới cho anh em anh ạ
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/#post-80257" title="Permalink" class="datePermalink"><span class="DateTime" title="4/3/15 lúc 10:00">4/3/15</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/#post-80257" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/80257/permalink">10</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-80257">
+	
+	<div class="likesSummary secondaryContent">
+		<span class="LikeText">
+			<a href="members/huy-le.4522/" class="username" dir="auto">Huy Lê</a> thích bài này.
+		</span>
+	</div>
+</div>
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-80395" class="message   " data-author="tranminhdo">
+
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="members/tranminhdo.4901/" class="avatar Av4901m" data-avatarhtml="true"><img src="data/avatars/m/4/4901.jpg?1427788045" width="96" height="96" alt="tranminhdo" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText">
+			<a href="members/tranminhdo.4901/" class="username" dir="auto" itemprop="name"><span class="style2">tranminhdo</span></a>
+			<em class="userTitle" itemprop="title">LV 2</em>
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Posts:</dt>
+						<dd><a href="search/member?user_id=4901" class="concealed" rel="nofollow">123</a></dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>173</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					mình xin đóng góp ý kiến để các bạn làm rom v4 cho anh em xài tốt nhé :<br />
++ V4 thì bạn build nền S cho sóng nó mạnh !<br />
++ giữ nguyên bản Stock chỉ xóa app hàn còn lại để nguyên hạn chế lỗi dừng đột ngột như v3 khi chọn 1 vài cái trong cài đặt.<br />
++ Fix tin nhắn, thời tiết ..... như v3 là oke men<br />
++ tích hợp các Mod gì đó hay thêm cái code gi vào buildprod cho nó mượt mà khi thao tác ứng dụng ( lướt face thấy nó còn giật giật khi bấm vào bình luật và các hiệu ứng của các app có dạng sổ trang ngang hoặc dọc ...<br />
++ về phần SymtemUi.apk thì các bạn làm mạc định vè post cái đa mod riêng 1 link ai thik thi flash vào ! <img src="styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie8" alt=":D" title="Big Grin    :D" /> <br />
+- Đó là 1 số ý kiến đóng góp của mình các bạn nào đóng góp thêm cho bản rom hoàn chỉnh nhé ! <br />
+- cám ơn các bạn làm rom đã bỏ time và công sức cho anh em có thứ trải nghiệm ~ <img src="styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie1" alt=":)" title="Smile    :)" />
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/#post-80395" title="Permalink" class="datePermalink"><span class="DateTime" title="4/3/15 lúc 10:50">4/3/15</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/#post-80395" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/80395/permalink">11</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-80395">
+	
+	<div class="likesSummary secondaryContent">
+		<span class="LikeText">
+			<a href="members/vinh-hayabusa.8695/" class="username" dir="auto">Vinh hayabusa</a>, <a href="members/nam_pro1102.25/" class="username" dir="auto">nam_pro1102</a>, <a href="members/vandieutot.3/" class="username" dir="auto">vandieutot</a> and <a href="posts/80395/likes" class="OverlayTrigger">2 others</a> like this.
+		</span>
+	</div>
+</div>
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-80408" class="message   " data-author="tuanvaman">
+
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="members/tuanvaman.4583/" class="avatar Av4583m" data-avatarhtml="true"><img src="styles/brivium/stylium/chromium/xenforo/avatars/avatar_male_m.png" width="96" height="96" alt="tuanvaman" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText">
+			<a href="members/tuanvaman.4583/" class="username" dir="auto" itemprop="name"><span class="style2">tuanvaman</span></a>
+			<em class="userTitle" itemprop="title">LV 2</em>
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Posts:</dt>
+						<dd><a href="search/member?user_id=4583" class="concealed" rel="nofollow">203</a></dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>592</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					Trải nghiệm từ hôm qua đến giờ. hài lòng nhưng vẫn bị cái vụ phát hiện hoạt động trái phép làm phiền. Về khoảng pin mình có thắc mắc là tại sao &quot;hệ điều hành android&quot; tốn pin hơn so vs màn hình luôn.pin cũng cải thiện hơn chút.
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/#post-80408" title="Permalink" class="datePermalink"><span class="DateTime" title="4/3/15 lúc 11:01">4/3/15</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/#post-80408" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/80408/permalink">12</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-80408">
+	
+	<div class="likesSummary secondaryContent">
+		<span class="LikeText">
+			<a href="members/vandieutot.3/" class="username" dir="auto">vandieutot</a> and <a href="members/nguyen-vu-anh.193/" class="username" dir="auto">Nguyễn Vũ Anh</a> like this.
+		</span>
+	</div>
+</div>
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-80409" class="message   " data-author="tuanvaman">
+
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="members/tuanvaman.4583/" class="avatar Av4583m" data-avatarhtml="true"><img src="styles/brivium/stylium/chromium/xenforo/avatars/avatar_male_m.png" width="96" height="96" alt="tuanvaman" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText">
+			<a href="members/tuanvaman.4583/" class="username" dir="auto" itemprop="name"><span class="style2">tuanvaman</span></a>
+			<em class="userTitle" itemprop="title">LV 2</em>
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Posts:</dt>
+						<dd><a href="search/member?user_id=4583" class="concealed" rel="nofollow">203</a></dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>592</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div class="bbCodeBlock bbCodeQuote" data-author="tranminhdo">
+	<aside>
+		
+			<div class="attribution type">tranminhdo nói:
+				
+					<a href="goto/post?id=80395#post-80395" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">mình xin đóng góp ý kiến để các bạn làm rom v4 cho anh em xài tốt nhé :<br />
++ V4 thì bạn build nền S cho sóng nó mạnh !<br />
++ giữ nguyên bản Stock chỉ xóa app hàn còn lại để nguyên hạn chế lỗi dừng đột ngột như v3 khi chọn 1 vài cái trong cài đặt.<br />
++ Fix tin nhắn, thời tiết ..... như v3 là oke men<br />
++ tích hợp các Mod gì đó hay thêm cái code gi vào buildprod cho nó mượt mà khi thao tác ứng dụng ( lướt face thấy nó còn giật giật khi bấm vào bình luật và các hiệu ứng của các app có dạng sổ trang ngang hoặc dọc ...<br />
++ về phần SymtemUi.apk thì các bạn làm mạc định vè post cái đa mod riêng 1 link ai thik thi flash vào ! <img src="styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie8" alt=":D" title="Big Grin    :D" /><br />
+- Đó là 1 số ý kiến đóng góp của mình các bạn nào đóng góp thêm cho bản rom hoàn chỉnh nhé !<br />
+- cám ơn các bạn làm rom đã bỏ time và công sức cho anh em có thứ trải nghiệm ~ <img src="styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie1" alt=":)" title="Smile    :)" /></div><div class="quoteExpand">Mở rộng</div></blockquote>
+	</aside>
+</div>Vì sao bản S sóng mạnh hơn vậy bạn?
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/#post-80409" title="Permalink" class="datePermalink"><span class="DateTime" title="4/3/15 lúc 11:02">4/3/15</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/#post-80409" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/80409/permalink">13</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-80409">
+	
+	<div class="likesSummary secondaryContent">
+		<span class="LikeText">
+			<a href="members/vandieutot.3/" class="username" dir="auto">vandieutot</a> and <a href="members/nguyen-vu-anh.193/" class="username" dir="auto">Nguyễn Vũ Anh</a> like this.
+		</span>
+	</div>
+</div>
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-80427" class="message  staff " data-author="Nguyễn Vũ Anh">
+
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock online">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="members/nguyen-vu-anh.193/" class="avatar Av193m" data-avatarhtml="true"><img src="data/avatars/m/0/193.jpg?1455769479" width="96" height="96" alt="Nguyễn Vũ Anh" /></a>
+			<span class="Tooltip onlineMarker" title="Online Now" data-offsetX="-22" data-offsetY="-8"></span>
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText">
+			<a href="members/nguyen-vu-anh.193/" class="username" dir="auto" itemprop="name"><span class="style3">Nguyễn Vũ Anh</span></a>
+			<em class="userTitle" itemprop="title">NOTE 4_N910S</em>
+			<em class="userBanner bannerStaff wrapped" itemprop="title"><span class="before"></span><strong>Ban Quản Trị</strong><span class="after"></span></em>
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Posts:</dt>
+						<dd><a href="search/member?user_id=193" class="concealed" rel="nofollow">3,683</a></dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>5,347</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div class="bbCodeBlock bbCodeQuote" data-author="tuanvaman">
+	<aside>
+		
+			<div class="attribution type">tuanvaman nói:
+				
+					<a href="goto/post?id=80408#post-80408" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Trải nghiệm từ hôm qua đến giờ. hài lòng nhưng vẫn bị cái vụ phát hiện hoạt động trái phép làm phiền. Về khoảng pin mình có thắc mắc là tại sao &quot;hệ điều hành android&quot; tốn pin hơn so vs màn hình luôn.pin cũng cải thiện hơn chút.</div><div class="quoteExpand">Mở rộng</div></blockquote>
+	</aside>
+</div>Sử dụng phần mềm Greenify tắt các chế độ chạy ngầm đi, nhưng hình như bác lăng tăng về pin quá. Mình chuẩn bị chơi thêm một cục pin và dock nè. như thế dùng vô tư không lăng tăng về pin nữa.<img src="styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie7" alt=":p" title="Stick Out Tongue    :p" /><img src="styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie7" alt=":p" title="Stick Out Tongue    :p" /><img src="styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie7" alt=":p" title="Stick Out Tongue    :p" />, có ai chơi pin và dock với mình không?
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/#post-80427" title="Permalink" class="datePermalink"><span class="DateTime" title="4/3/15 lúc 11:18">4/3/15</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/#post-80427" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/80427/permalink">14</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-80427">
+	
+	<div class="likesSummary secondaryContent">
+		<span class="LikeText">
+			<a href="members/hoalang.277/" class="username" dir="auto">hoalang</a> and <a href="members/huy-le.4522/" class="username" dir="auto">Huy Lê</a> like this.
+		</span>
+	</div>
+</div>
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-80428" class="message  staff " data-author="Nguyễn Vũ Anh">
+
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock online">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="members/nguyen-vu-anh.193/" class="avatar Av193m" data-avatarhtml="true"><img src="data/avatars/m/0/193.jpg?1455769479" width="96" height="96" alt="Nguyễn Vũ Anh" /></a>
+			<span class="Tooltip onlineMarker" title="Online Now" data-offsetX="-22" data-offsetY="-8"></span>
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText">
+			<a href="members/nguyen-vu-anh.193/" class="username" dir="auto" itemprop="name"><span class="style3">Nguyễn Vũ Anh</span></a>
+			<em class="userTitle" itemprop="title">NOTE 4_N910S</em>
+			<em class="userBanner bannerStaff wrapped" itemprop="title"><span class="before"></span><strong>Ban Quản Trị</strong><span class="after"></span></em>
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Posts:</dt>
+						<dd><a href="search/member?user_id=193" class="concealed" rel="nofollow">3,683</a></dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>5,347</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div class="bbCodeBlock bbCodeQuote" data-author="tuanvaman">
+	<aside>
+		
+			<div class="attribution type">tuanvaman nói:
+				
+					<a href="goto/post?id=80409#post-80409" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Vì sao bản S sóng mạnh hơn vậy bạn?</div><div class="quoteExpand">Mở rộng</div></blockquote>
+	</aside>
+</div>Cảm thấy sóng như nhau thôi
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/#post-80428" title="Permalink" class="datePermalink"><span class="DateTime" title="4/3/15 lúc 11:18">4/3/15</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/#post-80428" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/80428/permalink">15</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-80428">
+	
+	<div class="likesSummary secondaryContent">
+		<span class="LikeText">
+			<a href="members/huy-le.4522/" class="username" dir="auto">Huy Lê</a> thích bài này.
+		</span>
+	</div>
+</div>
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-80434" class="message   " data-author="tuanvaman">
+
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="members/tuanvaman.4583/" class="avatar Av4583m" data-avatarhtml="true"><img src="styles/brivium/stylium/chromium/xenforo/avatars/avatar_male_m.png" width="96" height="96" alt="tuanvaman" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText">
+			<a href="members/tuanvaman.4583/" class="username" dir="auto" itemprop="name"><span class="style2">tuanvaman</span></a>
+			<em class="userTitle" itemprop="title">LV 2</em>
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Posts:</dt>
+						<dd><a href="search/member?user_id=4583" class="concealed" rel="nofollow">203</a></dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>592</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div class="bbCodeBlock bbCodeQuote" data-author="nguyenvuanh_789">
+	<aside>
+		
+			<div class="attribution type">nguyenvuanh_789 nói:
+				
+					<a href="goto/post?id=80427#post-80427" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Sử dụng phần mềm Greenify tắt các chế độ chạy ngầm đi, nhưng hình như bác lăng tăng về pin quá. Mình chuẩn bị chơi thêm một cục pin và dock nè. như thế dùng vô tư không lăng tăng về pin nữa.<img src="styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie7" alt=":p" title="Stick Out Tongue    :p" /><img src="styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie7" alt=":p" title="Stick Out Tongue    :p" /><img src="styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie7" alt=":p" title="Stick Out Tongue    :p" />, có ai chơi pin và dock với mình không?</div><div class="quoteExpand">Mở rộng</div></blockquote>
+	</aside>
+</div>Giá cả thế nào bác.pin là thành phần quan trọng mua máy,trước xài z3 ưng ý lăm,nhưng có 1 số lý do bán,mua note 4 nghe nói pin trâu,ai dè cũng ko khá hơn.dock pin giá sao bác?<br />
+<br />
+<br />
+Sent from my iPad using Tapatalk
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/#post-80434" title="Permalink" class="datePermalink"><span class="DateTime" title="4/3/15 lúc 11:22">4/3/15</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/#post-80434" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/80434/permalink">16</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-80434">
+	
+	<div class="likesSummary secondaryContent">
+		<span class="LikeText">
+			<a href="members/huy-le.4522/" class="username" dir="auto">Huy Lê</a> and <a href="members/nguyen-vu-anh.193/" class="username" dir="auto">Nguyễn Vũ Anh</a> like this.
+		</span>
+	</div>
+</div>
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-80440" class="message  staff " data-author="Nguyễn Vũ Anh">
+
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock online">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="members/nguyen-vu-anh.193/" class="avatar Av193m" data-avatarhtml="true"><img src="data/avatars/m/0/193.jpg?1455769479" width="96" height="96" alt="Nguyễn Vũ Anh" /></a>
+			<span class="Tooltip onlineMarker" title="Online Now" data-offsetX="-22" data-offsetY="-8"></span>
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText">
+			<a href="members/nguyen-vu-anh.193/" class="username" dir="auto" itemprop="name"><span class="style3">Nguyễn Vũ Anh</span></a>
+			<em class="userTitle" itemprop="title">NOTE 4_N910S</em>
+			<em class="userBanner bannerStaff wrapped" itemprop="title"><span class="before"></span><strong>Ban Quản Trị</strong><span class="after"></span></em>
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Posts:</dt>
+						<dd><a href="search/member?user_id=193" class="concealed" rel="nofollow">3,683</a></dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>5,347</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div class="bbCodeBlock bbCodeQuote" data-author="tuanvaman">
+	<aside>
+		
+			<div class="attribution type">tuanvaman nói:
+				
+					<a href="goto/post?id=80434#post-80434" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Giá cả thế nào bác.pin là thành phần quan trọng mua máy,trước xài z3 ưng ý lăm,nhưng có 1 số lý do bán,mua note 4 nghe nói pin trâu,ai dè cũng ko khá hơn.dock pin giá sao bác?<br />
+<br />
+<br />
+Sent from my iPad using Tapatalk</div><div class="quoteExpand">Mở rộng</div></blockquote>
+	</aside>
+</div>Mình mượn đứa em bên Hàn mua dùm nó chưa nói giá.
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/#post-80440" title="Permalink" class="datePermalink"><span class="DateTime" title="4/3/15 lúc 11:23">4/3/15</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/#post-80440" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/80440/permalink">17</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-80440">
+	
+	<div class="likesSummary secondaryContent">
+		<span class="LikeText">
+			<a href="members/huy-le.4522/" class="username" dir="auto">Huy Lê</a> thích bài này.
+		</span>
+	</div>
+</div>
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-80442" class="message   " data-author="tuanvaman">
+
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="members/tuanvaman.4583/" class="avatar Av4583m" data-avatarhtml="true"><img src="styles/brivium/stylium/chromium/xenforo/avatars/avatar_male_m.png" width="96" height="96" alt="tuanvaman" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText">
+			<a href="members/tuanvaman.4583/" class="username" dir="auto" itemprop="name"><span class="style2">tuanvaman</span></a>
+			<em class="userTitle" itemprop="title">LV 2</em>
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Posts:</dt>
+						<dd><a href="search/member?user_id=4583" class="concealed" rel="nofollow">203</a></dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>592</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					Hình như bác ngoài HN hả?phải chi HCM ké 1 bộ<br />
+<br />
+<br />
+Sent from my iPad using Tapatalk
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/#post-80442" title="Permalink" class="datePermalink"><span class="DateTime" title="4/3/15 lúc 11:25">4/3/15</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/#post-80442" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/80442/permalink">18</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-80442">
+	
+	<div class="likesSummary secondaryContent">
+		<span class="LikeText">
+			<a href="members/nguyen-vu-anh.193/" class="username" dir="auto">Nguyễn Vũ Anh</a> thích bài này.
+		</span>
+	</div>
+</div>
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-80443" class="message  staff " data-author="Nguyễn Vũ Anh">
+
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock online">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="members/nguyen-vu-anh.193/" class="avatar Av193m" data-avatarhtml="true"><img src="data/avatars/m/0/193.jpg?1455769479" width="96" height="96" alt="Nguyễn Vũ Anh" /></a>
+			<span class="Tooltip onlineMarker" title="Online Now" data-offsetX="-22" data-offsetY="-8"></span>
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText">
+			<a href="members/nguyen-vu-anh.193/" class="username" dir="auto" itemprop="name"><span class="style3">Nguyễn Vũ Anh</span></a>
+			<em class="userTitle" itemprop="title">NOTE 4_N910S</em>
+			<em class="userBanner bannerStaff wrapped" itemprop="title"><span class="before"></span><strong>Ban Quản Trị</strong><span class="after"></span></em>
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Posts:</dt>
+						<dd><a href="search/member?user_id=193" class="concealed" rel="nofollow">3,683</a></dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>5,347</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div class="bbCodeBlock bbCodeQuote" data-author="tuanvaman">
+	<aside>
+		
+			<div class="attribution type">tuanvaman nói:
+				
+					<a href="goto/post?id=80442#post-80442" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Hình như bác ngoài HN hả?phải chi HCM ké 1 bộ<br />
+<br />
+<br />
+Sent from my iPad using Tapatalk</div><div class="quoteExpand">Mở rộng</div></blockquote>
+	</aside>
+</div>Mình ở Hậu Giang bác ơi
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/#post-80443" title="Permalink" class="datePermalink"><span class="DateTime" title="4/3/15 lúc 11:26">4/3/15</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/#post-80443" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/80443/permalink">19</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-80443">
+	
+	<div class="likesSummary secondaryContent">
+		<span class="LikeText">
+			<a href="members/huy-le.4522/" class="username" dir="auto">Huy Lê</a> thích bài này.
+		</span>
+	</div>
+</div>
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-80445" class="message   " data-author="tuanvaman">
+
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="members/tuanvaman.4583/" class="avatar Av4583m" data-avatarhtml="true"><img src="styles/brivium/stylium/chromium/xenforo/avatars/avatar_male_m.png" width="96" height="96" alt="tuanvaman" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText">
+			<a href="members/tuanvaman.4583/" class="username" dir="auto" itemprop="name"><span class="style2">tuanvaman</span></a>
+			<em class="userTitle" itemprop="title">LV 2</em>
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Posts:</dt>
+						<dd><a href="search/member?user_id=4583" class="concealed" rel="nofollow">203</a></dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>592</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					Cũng xa quá...<br />
+<br />
+<br />
+Sent from my iPad using Tapatalk
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/#post-80445" title="Permalink" class="datePermalink"><span class="DateTime" title="4/3/15 lúc 11:27">4/3/15</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/#post-80445" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/80445/permalink">20</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-80445">
+	
+	<div class="likesSummary secondaryContent">
+		<span class="LikeText">
+			<a href="members/nguyen-vu-anh.193/" class="username" dir="auto">Nguyễn Vũ Anh</a> thích bài này.
+		</span>
+	</div>
+</div>
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+		
+	</ol>
+
+	
+
+	<input type="hidden" name="_xfToken" value="" />
+
+</form>
+
+	<div class="pageNavLinkGroup">
+			
+				<div class="linkGroup">
+					
+						<label for="LoginControl"><a href="login/" class="concealed element">(Bạn phải Đăng nhập hoặc Đăng ký để trả lời bài viết.)</a></label>
+					
+				</div>
+			
+			<div class="linkGroup" style="display: none"><a href="javascript:" class="muted JsOnly DisplayIgnoredContent Tooltip" title="Show hidden content by ">Show Ignored Content</a></div>
+
+			
+
+
+<div class="PageNav"
+	data-page="1"
+	data-range="2"
+	data-start="2"
+	data-end="6"
+	data-last="974"
+	data-sentinel="{{sentinel}}"
+	data-baseurl="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/page-{{sentinel}}">
+	
+	<span class="pageNavHeader">Trang 1 của 974 trang</span>
+	
+	<nav>
+		
+		
+		<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/" class="currentPage " rel="start">1</a>
+		
+		
+			<a class="PageNavPrev hidden">&larr;</a> <span class="scrollable"><span class="items">
+		
+		
+		
+			<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/page-2" class="">2</a>
+		
+			<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/page-3" class="">3</a>
+		
+			<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/page-4" class="">4</a>
+		
+			<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/page-5" class="">5</a>
+		
+			<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/page-6" class="">6</a>
+		
+		
+		
+			</span></span> <a class="PageNavNext ">&rarr;</a>
+		
+		
+		<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/page-974" class="">974</a>
+		
+		
+			<a href="threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/page-2" class="text">Tiếp </a>
+			
+		
+	</nav>	
+	
+	
+</div>
+
+	</div>
+
+
+
+
+
+
+
+
+
+
+	<div class="tagBlock TagContainer">
+	Tags:
+	
+		<ul class="tagList">
+		
+			<li><a href="tags/rom-fix-loi-samsung-note-6/" class="tag"><span class="arrow"></span>rom fix loi samsung note 6</a></li>
+		
+			<li><a href="tags/rom-moi-nhat-samsung-note-4/" class="tag"><span class="arrow"></span>rom mới nhất samsung note 4</a></li>
+		
+			<li><a href="tags/rom-note-4-2015/" class="tag"><span class="arrow"></span>rom note 4 2015</a></li>
+		
+			<li><a href="tags/rom-on-dinh-cho-note-4/" class="tag"><span class="arrow"></span>rom on dinh cho note 4</a></li>
+		
+			<li><a href="tags/rom-port-note-5-cho-note-4/" class="tag"><span class="arrow"></span>rom port note 5 cho note 4</a></li>
+		
+			<li><a href="tags/rom-s6-cho-note-4/" class="tag"><span class="arrow"></span>rom s6 cho note 4</a></li>
+		
+		</ul>
+	
+	
+</div>
+
+
+
+	
+
+
+
+	
+
+	<div class="sharePage">
+		<h3 class="textHeading larger">Like & Share</h3>
+		
+			
+			
+			
+				<div class="plusone shareControl">
+					<div class="g-plusone" data-size="medium" data-count="true" data-href="http://sccn.vn/threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/"></div>
+				</div>
+			
+			
+				<div class="facebookLike shareControl">
+					
+					<div class="fb-like" data-href="http://sccn.vn/threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/" data-width="400" data-layout="standard" data-action="like" data-show-faces="true" data-colorscheme="light"></div>
+				</div>
+			
+			
+		
+	</div>
+
+						
+						
+						
+						
+							<!-- login form, to be moved to the upper drop-down -->
+							
+
+
+
+
+
+
+
+<form action="login/login" method="post" class="xenForm eAuth" id="login" style="display:none">
+
+	
+		<ul id="eAuthUnit">
+			
+				
+				
+					
+					<li><a href="register/facebook?reg=1" class="fbLogin" tabindex="110"><span>Login with Facebook</span></a></li>
+				
+				
+				
+				
+				
+				
+			
+		</ul>
+	
+
+	<div class="ctrlWrapper">
+		<dl class="ctrlUnit">
+			<dt><label for="LoginControl">Tên tài khoản hoặc địa chỉ Email:</label></dt>
+			<dd><input type="text" name="login" id="LoginControl" class="textCtrl" tabindex="101" /></dd>
+		</dl>
+	
+	
+		<dl class="ctrlUnit">
+			<dt>
+				<label for="ctrl_password">Bạn đã có tài khoản rồi?</label>
+			</dt>
+			<dd>
+				<ul>
+					<li><label for="ctrl_not_registered"><input type="radio" name="register" value="1" id="ctrl_not_registered" tabindex="105" />
+						Tích vào đây để đăng ký</label></li>
+					<li><label for="ctrl_registered"><input type="radio" name="register" value="0" id="ctrl_registered" tabindex="105" checked="checked" class="Disabler" />
+						Vâng, Mật khẩu của tôi là:</label></li>
+					<li id="ctrl_registered_Disabler">
+						<input type="password" name="password" class="textCtrl" id="ctrl_password" tabindex="102" />
+						<div class="lostPassword"><a href="lost-password/" class="OverlayTrigger OverlayCloser" tabindex="106">Bạn đã quên mật khẩu?</a></div>
+					</li>
+				</ul>
+			</dd>
+		</dl>
+	
+		
+		<dl class="ctrlUnit submitUnit">
+			<dt></dt>
+			<dd>
+				<input type="submit" class="button primary" value="Đăng nhập" tabindex="104" data-loginPhrase="Đăng nhập" data-signupPhrase="Đăng ký" />
+				<label for="ctrl_remember" class="rememberPassword"><input type="checkbox" name="remember" value="1" id="ctrl_remember" tabindex="103" /> Duy trì đăng nhập</label>
+			</dd>
+		</dl>
+	</div>
+
+	<input type="hidden" name="cookie_check" value="1" />
+	<input type="hidden" name="redirect" value="/threads/rom-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694/" />
+	<input type="hidden" name="_xfToken" value="" />
+
+</form>
+						
+						
+					</div>
+				</div>
+				
+				<!-- sidebar -->
+				
+				<aside>
+					<div class="sidebar styliumMainSidebar" data-location="right">
+						
+						
+						
+						<div class="section widgets-d6459">
+			
+				
+					
+						<div class="secondaryContent widget sidebar-widget WidgetFramework_WidgetRenderer_Html" id="widget-40">
+							<h3>
+								
+									MSmobile
+								
+							</h3>
+							<a target="_blank" rel="nofollow" href="http://msmobile.vn/dien-thoai/iphone-5-lock-16gb-p1192.html" ><img src="http://sccn.vn/qc/ms.gif" width="100%" border="0"></a>
+						</div>
+					
+				
+			
+		</div>
+	
+
+
+
+	
+	
+
+
+
+	
+		<div class="section widgets-6c834">
+			
+				
+					
+						<div class="secondaryContent widget sidebar-widget WidgetFramework_WidgetRenderer_Html" id="widget-45">
+							<h3>
+								
+									Khôi Nguyên Mobile
+								
+							</h3>
+							<a target="_blank" href="http://khoinguyenmobile.com" ><img src="http://sccn.vn/qc/kn.gif" width="100%" border="0"></a>
+						</div>
+					
+				
+			
+		</div>
+	
+
+
+
+	
+	
+
+
+
+	
+		<div class="section widgets-f7177">
+			
+				
+					
+						<div class="secondaryContent widget sidebar-widget WidgetFramework_WidgetRenderer_Html" id="widget-44">
+							<h3>
+								
+									Fshare
+								
+							</h3>
+							<a target="_blank" href="https://www.fshare.vn/partnerlink?key=f2sccnvn" ><img src="https://www.fshare.vn/media/banner_Fshare/sccn.vn_220x250.gif" width="100%" border="0"></a>
+						</div>
+					
+				
+			
+		</div>
+	
+
+
+
+	
+	
+
+
+
+	
+		<div class="section widgets-9f614">
+			
+				
+					
+						<div class="secondaryContent widget sidebar-widget WidgetFramework_WidgetRenderer_Html" id="widget-56">
+							<h3>
+								
+									TEXTLINK
+								
+							</h3>
+							<a href="http://baovebaominh.com/cong-ty-bao-ve-chuyen-nghiep-tai-viet-nam/" target="_blank" title="cong ty bao ve">cong ty bao ve</a>
+<br>
+<a href="http://msmobile.vn/dien-thoai/iphone-5-cu-quoc-te-p1301.html" title="iPhone 5 cũ">iPhone 5 cũ</a><br>
+<a href="https://nullxf.com/" target="_blank" title="Team Nullxf">Team Nullxf</a>
+<br>
+<a href="https://taplamseo.com/seo-la-gi/" title="SEO là gì" rel="bookmark">SEO là gì</a>
+<br>
+<a href='http://msmobile.vn/dien-thoai/xiaomi-mi5-p1359.html'>xiaomi mi5</a>
+<br>
+<a href='http://lambienquangcao.biz/trang-chu.aspx'>xiaomi mi 5 plus</a>
+<br>
+<a href='http://msmobile.vn/dien-thoai/xiaomi-mi-4s-p1623.html'>xiaomi mi 4s</a>
+<br>
+<a href='http://quangcaotoancau.net/'>lam bien quang cao</a>
+<br>
+<a href='http://lambienquangcao.biz/trang-chu.aspx'>bien quang cao</a>
+<br>
+<a href='http://www.giaydantuongkoreanstyle.com/'>giấy dán tường hàn quốc</a>
+<br>
+<span style="color: red;">Liên hệ quảng cáo sccnvn@gmail.com</span>
+<br>
+						</div>
+					
+				
+			
+		</div>
+						
+						
+					</div>
+				</aside>
+				
+			
+			
+						
+			<div class="breadBoxBottom">
+
+<nav>
+
+	
+	
+	
+
+	<fieldset class="breadcrumb">
+		<a href="misc/quick-navigation-menu?selected=node-206" class="OverlayTrigger jumpMenuTrigger" data-cacheOverlay="true" title="Mở điều hướng nhanh"><!--Jump to...--></a>
+			
+		<div class="boardTitle"><strong>Sân Chơi Công Nghệ</strong></div>
+		
+		<span class="crumbs">
+			
+				<span class="crust homeCrumb">
+					<a href="http://sccn.vn" class="crumb"><span>Home</span></a>
+					<span class="arrow"><span></span></span>
+				</span>
+			
+			
+			
+				<span class="crust selectedTabCrumb">
+					<a href="http://sccn.vn/" class="crumb"><span>Forums</span></a>
+					<span class="arrow"><span>&gt;</span></span>
+				</span>
+			
+			
+			
+				
+					<span class="crust">
+						<a href="http://sccn.vn/categories/phat-trien-dien-thoai.218/" class="crumb"><span>Phát Triển Điện Thoại</span></a>
+						<span class="arrow"><span>&gt;</span></span>
+					</span>
+				
+					<span class="crust">
+						<a href="http://sccn.vn/forums/rom-dien-thoai-samsung.221/" class="crumb"><span>Rom Điện Thoại Samsung</span></a>
+						<span class="arrow"><span>&gt;</span></span>
+					</span>
+				
+					<span class="crust">
+						<a href="http://sccn.vn/forums/rom-samsung-galaxy-note-4.157/" class="crumb"><span>Rom Samsung Galaxy Note 4</span></a>
+						<span class="arrow"><span>&gt;</span></span>
+					</span>
+				
+					<span class="crust">
+						<a href="http://sccn.vn/forums/rom-note-4.206/" class="crumb"><span>Rom Note 4</span></a>
+						<span class="arrow"><span>&gt;</span></span>
+					</span>
+				
+			
+		</span>
+	</fieldset>
+</nav></div>
+			
+						
+			
+						
+		</div>
+	</div>
+</div>
+
+<header>
+	
+
+
+<div id="header" class="">
+	<div id="logoBlock">
+	<div class="pageWidth">
+		<div class="pageContent">
+			
+			
+			<div id="logo"><a href="http://sccn.vn">
+				<span></span>
+				<img src="styles/brivium/stylium/chromium/xenforo/logo.png" alt="Sân Chơi Công Nghệ" />
+			</a></div>
+			
+			
+			
+			
+			
+				<ul class="visitorTabs right">
+	<li class="navTab login PopupClosed">
+		<label>
+			<a href="login/" class="navLink  OverlayTrigger">
+				<span class="fa fa-sign-in"></span> 
+				<strong class="loginText">Đăng nhập</strong>
+			</a>	
+		</label>
+		
+	</li>
+</ul>
+			
+			<span class="helper"></span>
+		</div>
+	</div>
+</div>
+	
+
+<div id="navigation" class="pageWidth withSearch  ">
+	<div class="pageContent">
+		<nav>
+
+<div class="navTabs">
+	<ul class="publicTabs">
+	
+		<!-- home -->
+		
+			<li class="navTab home PopupClosed"><a href="http://sccn.vn" class="navLink">Home</a></li>
+		
+		
+		
+		<!-- extra tabs: home -->
+		
+		
+		
+		<!-- forums -->
+		
+			<li class="navTab forums selected">
+			
+				<a href="http://sccn.vn/" class="navLink">Forums</a>
+				<a href="http://sccn.vn/" class="SplitCtrl" rel="Menu"></a>
+				
+				<div class="tabLinks forumsTabLinks">
+					<div class="primaryContent menuHeader">
+						<h3>Forums</h3>
+						<div class="muted">Liên kết nhanh</div>
+					</div>
+					<ul class="secondaryContent blockLinksList">
+					
+						
+						<li><a href="search/?type=post">Tìm kiếm diễn đàn</a></li>
+						
+						<li><a href="find-new/posts" rel="nofollow">Bài viết gần đây</a></li>
+					
+					</ul>
+				</div>
+			</li>
+		
+		
+		
+		<!-- extra tabs: middle -->
+		
+		
+		
+		<!-- members -->
+		
+			<li class="navTab members Popup PopupControl PopupClosed">
+			
+				<a href="http://sccn.vn/members/" class="navLink">Members</a>
+				<a href="http://sccn.vn/members/" class="SplitCtrl" rel="Menu"></a>
+				
+				<div class="Menu JsOnly tabMenu membersTabLinks">
+					<div class="primaryContent menuHeader">
+						<h3>Members</h3>
+						<div class="muted">Liên kết nhanh</div>
+					</div>
+					<ul class="secondaryContent blockLinksList">
+					
+						<li><a href="members/">Thành viên tiêu biểu</a></li>
+						
+						<li><a href="online/">Đang truy cập</a></li>
+						<li><a href="recent-activity/">Hoạt động gần đây</a></li>
+						<li><a href="find-new/profile-posts">New Profile Posts</a></li>
+					
+					</ul>
+				</div>
+			</li>
+						
+		
+		<!-- extra tabs: end -->
+		
+
+		<!-- responsive popup -->
+		<li class="navTab navigationHiddenTabs Popup PopupControl PopupClosed" style="display:none">	
+						
+			<a rel="Menu" class="navLink NoPopupGadget"><span class="menuIcon">Menu</span></a>
+			
+			<div class="Menu JsOnly blockLinksList primaryContent" id="NavigationHiddenMenu"></div>
+		</li>
+			
+			
+	
+	
+	
+	
+	
+		<!-- no selection -->
+		
+		
+	</ul>
+	
+	<div class="visitorTabs">
+		<div class="navTab">
+
+<div id="searchBar" class="pageWidth">
+	
+	<span id="QuickSearchPlaceholder" title="Tìm kiếm">Tìm kiếm</span>
+	<fieldset id="QuickSearch">
+		<form action="search/search" method="post" class="formPopup">
+			
+			<div class="primaryControls">
+				<!-- block: primaryControls -->
+				<input type="text" name="keywords" value="" class="textCtrl" placeholder="Tìm kiếm..." results="0" title="Nhập từ khóa và ấn Enter" id="QuickSearchQuery" />				
+				<!-- end block: primaryControls -->
+			</div>
+			
+			<div class="secondaryControls">
+				<div class="controlsWrapper">
+				
+					<!-- block: secondaryControls -->
+					<dl class="ctrlUnit">
+						<dt></dt>
+						<dd><ul>
+							<li><label><input type="checkbox" name="title_only" value="1"
+								id="search_bar_title_only" class="AutoChecker"
+								data-uncheck="#search_bar_thread" /> Chỉ tìm trong tiêu đề</label></li>
+						</ul></dd>
+					</dl>
+				
+					<dl class="ctrlUnit">
+						<dt><label for="searchBar_users">Được gửi bởi thành viên:</label></dt>
+						<dd>
+							<input type="text" name="users" value="" class="textCtrl AutoComplete" id="searchBar_users" />
+							<p class="explain">Dãn cách tên bằng dấu phẩy(,).</p>
+						</dd>
+					</dl>
+				
+					<dl class="ctrlUnit">
+						<dt><label for="searchBar_date">Mới hơn ngày:</label></dt>
+						<dd><input type="date" name="date" value="" class="textCtrl" id="searchBar_date" /></dd>
+					</dl>
+					
+					
+					<dl class="ctrlUnit">
+						<dt></dt>
+						<dd><ul>
+								
+									<li><label title="Search only ROM NVA NOTE4 SM-N910S/L/K RA MẮT ANH EM SCCN.VN"><input type="checkbox" name="type[post][thread_id]" value="8694"
+	id="search_bar_thread" class="AutoChecker"
+	data-uncheck="#search_bar_title_only, #search_bar_nodes" /> Search this thread only</label></li>
+								
+									<li><label title="Search only Rom Note 4"><input type="checkbox" name="nodes[]" value="206"
+	id="search_bar_nodes" class="Disabler AutoChecker" checked="checked"
+	data-uncheck="#search_bar_thread" /> Search this forum only</label>
+	<ul id="search_bar_nodes_Disabler">
+		<li><label><input type="checkbox" name="type[post][group_discussion]" value="1"
+			id="search_bar_group_discussion" class="AutoChecker"
+			data-uncheck="#search_bar_thread" /> Hiển thị kết quả dạng Chủ đề</label></li>
+	</ul></li>
+								
+						</ul></dd>
+					</dl>
+					
+				</div>
+				<!-- end block: secondaryControls -->
+				
+				<dl class="ctrlUnit submitUnit">
+					<dt></dt>
+					<dd>
+						<input type="submit" value="Tìm kiếm" class="button primary Tooltip" title="Tìm ngay" />
+						<div class="Popup" id="commonSearches">
+							<a rel="Menu" class="button NoPopupGadget Tooltip" title="Tìm kiếm hữu ích" data-tipclass="flipped"><span class="arrowWidget"></span></a>
+							<div class="Menu">
+								<div class="primaryContent menuHeader">
+									<h3>Tìm kiếm hữu ích</h3>
+								</div>
+								<ul class="secondaryContent blockLinksList">
+									<!-- block: useful_searches -->
+									<li><a href="find-new/posts?recent=1" rel="nofollow">Bài viết gần đây</a></li>
+									
+									<!-- end block: useful_searches -->
+								</ul>
+							</div>
+						</div>
+						<a href="search/" class="button moreOptions Tooltip" title="Tìm nâng cao">Thêm...</a>
+					</dd>
+				</dl>
+				
+			</div>
+			
+			<input type="hidden" name="_xfToken" value="" />
+		</form>		
+	</fieldset>
+	
+</div></div>
+	</div>
+	
+</div>
+
+<span class="helper"></span>
+			
+		</nav>	
+	</div>
+</div>
+<script>
+    if($(".navTabs .navTab.selected .tabLinks .blockLinksList").length)
+    {
+    }
+    else{
+    
+    	$(".navTabs .navTab.selected .tabLinks").css({"height":"0","border-bottom":"none"});
+    	$("#navigation .pageContent").css("height", "60px");
+    }
+</script>
+	
+</div>
+
+	
+	
+</header>
+
+</div>
+
+<footer>
+	
+
+
+
+
+
+	<a href="javascript:;" class="styliumToTop"><i class="fa fa-angle-double-up"></i></a>
+
+<div class="footer">
+	<div class="pageWidth">
+		<div class="pageContent">
+		
+			<span class="helper"></span>
+		</div>
+	</div>
+</div>
+
+<div class="footerLegal">
+	<div class="pageWidth">
+		<div class="pageContent">
+		
+			<ul id="legal">
+			
+				
+				
+				<li>
+					<a href="misc/language?redirect=%2Fthreads%2From-nva-note4-sm-n910s-l-k-ra-mat-anh-em-sccn-vn.8694%2F" class="OverlayTrigger Tooltip" title="Chọn Ngôn ngữ" rel="nofollow">Tiếng Việt</a>
+				</li>
+				
+			
+			
+				<li><a href="help/terms">Quy định và Nội quy</a></li>
+				
+			
+			<li>
+				<ul class="footerLinks">
+			
+				
+					<li><a href="misc/contact" class="OverlayTrigger" data-overlayOptions="{"fixed":false}">Liên hệ</a></li>
+				
+				<li><a href="help/">Trợ giúp</a></li>
+				<li><a href="http://sccn.vn" class="homeLink">Home</a></li>
+				
+				<li><a href="forums/-/index.rss" rel="alternate" class="globalFeed" target="_blank"
+					title="RSS Feed For Sân Chơi Công Nghệ">RSS</a></li>
+			
+			</ul>
+			</li>
+			</ul>
+			
+			
+			
+			<span class="helper"></span>
+		</div>
+	</div>	
+</div>
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-545518dc7ac159b4" async="async"></script>
+</footer>
+
+<script>
+
+
+jQuery.extend(true, XenForo,
+{
+	visitor: { user_id: 0 },
+	serverTimeInfo:
+	{
+		now: 1458050787,
+		today: 1457974800,
+		todayDow: 2
+	},
+	_lightBoxUniversal: "0",
+	_enableOverlays: "1",
+	_animationSpeedMultiplier: "1",
+	_overlayConfig:
+	{
+		top: "10%",
+		speed: 200,
+		closeSpeed: 100,
+		mask:
+		{
+			color: "rgb(0, 0, 0)",
+			opacity: "0.6",
+			loadSpeed: 200,
+			closeSpeed: 100
+		}
+	},
+	_ignoredUsers: [],
+	_loadedScripts: {"thread_view":true,"message":true,"bb_code":true,"message_user_info":true,"likes_summary":true,"share_page":true,"wf_default":true,"login_bar":true,"notices":true,"panel_scroller":true,"facebook":true,"chipxf_riu_form":true,"js\/chipxf\/remoteimageuploader\/jquery-file-upload\/js\/vendor\/jquery.ui.widget.js?_v=f1f36c1c":true,"js\/chipxf\/remoteimageuploader\/jquery-file-upload\/js\/jquery.iframe-transport.js?_v=f1f36c1c":true,"js\/chipxf\/remoteimageuploader\/jquery-file-upload\/js\/jquery.fileupload.js?_v=f1f36c1c":true,"js\/chipxf\/remoteimageuploader\/main.js?_v=f1f36c1c":true},
+	_cookieConfig: { path: "/", domain: "", prefix: "xf_"},
+	_csrfToken: "",
+	_csrfRefreshUrl: "login/csrf-token-refresh",
+	_jsVersion: "f1f36c1c",
+	_noSocialLogin: false
+});
+jQuery.extend(XenForo.phrases,
+{
+	cancel: "Hủy bỏ",
+
+	a_moment_ago:    "Vài giây trước",
+	one_minute_ago:  "1 phút trước",
+	x_minutes_ago:   "%minutes% phút trước",
+	today_at_x:      "Hôm nay %time%",
+	yesterday_at_x:  "Hôm qua %time%",
+	day_x_at_time_y: "%day% lúc %time%",
+
+	day0: "Chủ nhật",
+	day1: "Thứ hai",
+	day2: "Thứ ba",
+	day3: "Thứ tư",
+	day4: "Thứ năm",
+	day5: "Thứ sáu",
+	day6: "Thứ bảy",
+
+	_months: "Tháng một,Tháng hai,Tháng ba,Tháng tư,Tháng năm,Tháng sáu,Tháng bảy,Tháng tám,Tháng chín,Tháng mười,Tháng mười một,Tháng mười hai",
+	_daysShort: "CN,T2,T3,T4,T5,T6,T7",
+
+	following_error_occurred: "Có lỗi sau sảy xa với yêu cầu của bạn",
+	server_did_not_respond_in_time_try_again: "The server did not respond in time. Please try again.",
+	logging_in: "Đang đăng nhập",
+	click_image_show_full_size_version: "Xem ảnh lớn.",
+	show_hidden_content_by_x: "Show hidden content by {names}"
+});
+
+// Facebook Javascript SDK
+XenForo.Facebook.appId = "970361216325811";
+XenForo.Facebook.forceInit = true;
+jQuery.extend(XenForo.phrases,
+{
+    riu_just_added               : "Just added",
+    riu_queue_to_process         : "Queue to process",
+    riu_have_an_error_occurred   : "Have an error occurred",
+    riu_retry                    : "Retry",
+    riu_remove                   : "Remove",
+    riu_insert                   : "Chọn ảnh"
+});
+
+var RemoteImageUploader = RemoteImageUploader || {};
+
+RemoteImageUploader.Config = {
+    ALLOWS_FILE_TYPES                : /(jpg|jpeg|png|gif)$/i,
+    MAX_FILE_SIZE                    : 2097152,
+    SHOW_RETRY_WHEN_PROCESS_FAILED   : true,
+    SHOW_RETRY_TIMES                 : 3
+};
+jQuery.extend(true, Stylium,
+{
+	_settingEnable: "1",
+	_imagePath: "js/brivium/stylium/1000000/img",
+	_boardUrl: "http://sccn.vn",
+	_settingEnable: "1",
+	_mainContainerMargin: '260px',
+	_maxResponsiveWideWidth: "800px",
+	_maxResponsiveMediumWidth: "610px",
+	_maxResponsiveNarrowWidth: "480px",
+	_collapsibleCategory: "0",
+	_categoryCollapseSpeed: "800",
+	_footerGoToTop: "1",
+	_footerGoToTopVisibilty: "200",
+	_footerGoToTopSpeed: "1000",
+	_collapsibleSidebar: "0",
+	_collapsibleSidebarBlock: "0",
+	
+	_homeTabIcon: "1",
+	_navDropdownArrows: "0",
+	_subNavigation: "1",
+	_stickyHeader: "",
+	_stickyModerator: "0",
+	
+	_sidebarBlockCollapseTriggerClass: "fa-angle-up",
+	_sidebarBlockExpandTriggerClass: "fa-angle-down",
+	_categoryCollapseTriggerClass: "fa-angle-up",
+	_categoryExpandTriggerClass: "fa-angle-down",
+	
+	settingSelectors: {
+		font				: "body, .messageText",
+		bodyBgColor			: "body, #styliumSetting .styliumBodyBackgroundColor, ",
+		bodyBgImage			: 'body',
+		bodyBgSize			: 'body',
+		bodyBgPosition		: 'body',
+		bodyBgRepeat		: 'body',
+		
+		primaryColor			: ".breadcrumb .crust:last-child a.crumb, .navigationSideBar a:hover, body .xenOverlay.memberCard .userInfo h3 a, body .xenOverlay.memberCard .userLinks,.PageNav a:focus, .footer a:hover, .footer a:active, .navTabs .navTab.selected .navLink, .node .unread .nodeText .nodeTitle, .node .subForumList .unread .nodeTitle, .subForumsMenu .node .unread .nodeTitle, .navTabs .navTab.selected .SplitCtrl:before, #logo .fa, .footer .choosers a:hover, .node .nodeText .nodeTitle a, .sidebar .avatarList .username, .node .nodeLastPost .lastThreadTitle a, .navTabs .navTab.selected .tabLinks a, #styliumAdvancedFooter h3, .discussionListItem .title a, .messageUserBlock a.username, .publicControls .item.hashPermalink, .privateControls .control, .messageSimple .poster, .chooserColumns li a:hover, #styliumAdvancedFooter a:hover",
+		primaryColorBg			: "#styliumSetting .styliumPrimaryColor, .footer .pageContent, .resourceListItem .resourceImage .resourceIcon img, .resourceInfo .resourceImage .resourceIcon, #searchBar.hasSearchButton #QuickSearch .primaryControls .fa-search, .resourceListItem .resourceImage .resourceIcon img,.avatarCropper, .heading, .xenForm .formHeader, .Popup .PopupControl.PopupOpen, .Popup.PopupContainerControl.PopupOpen, .dataTable caption, .button.primary, .avatarScaler img, .xenOverlay .formOverlay .avatar img, .xenOverlay .formOverlay .avatar .img, .xenOverlay .formOverlay .avatarCropper, #logoBlock, .blockLinksList a:hover, .blockLinksList a:focus, .blockLinksList li.kbSelect a, .blockLinksList label:hover, .blockLinksList label:focus, .blockLinksList li.kbSelect label,  a.callToAction, .PageNav a.currentPage,  .PageNav a:hover, .attachment .thumbnail, .PanelScroller .navControls a.current, .sidebar .visitorPanel .visitorText, .AttachmentEditor .AttachedFile .Thumbnail",
+		primaryColorBorder		: ".textCtrl:focus, .textCtrl.Focus, .PanelScroller .scrollContainer, .PanelScrollerOff .panel, .PanelScroller .navControls a",
+		primaryColorBorderTop	: ".Menu, .PanelScroller .navControls a.current .arrow",
+		
+		secondaryColor			: ".sidebar .featuredNotice, .resourceListItem .main .featuredBanner, .smilieList .smilieText:hover, .nodeList .categoryStrip .nodeTitle a, .sidebar .section .primaryContent h3, .sidebar .section .secondaryContent h3, .profilePage .mast .section.infoBlock h3, .sidebar .section .primaryContent h3 a, .sidebar .section .secondaryContent h3 a, .titleBar h1, .discussionList .sectionHeaders a, .heading, .xenForm .formHeader, .xenOverlay .formOverlay .heading, .profilePage .primaryUserBlock h1, .textWithCount.subHeading .text, .navTabs .publicTabs .navLink, .navigationSideBar .subHeading, #content .container .xengallerySideBar .section h3, #content .container .xengallerySideBar .section h3 a, .resourceListSidebar > .secondaryContent > h3, .resourceListSidebar > .secondaryContent > h3 a",
+		secondaryColorBg		: "#styliumSetting .styliumSecondaryColor, ",
+		secondaryColorBorder	: "",
+		secondaryColorBorderTop	: "",
+		
+		tertiaryColor			: ".node .nodeLastPost .lastThreadMeta a, .discussionListItem .lastPostInfo .username,.publicControls .control",
+		tertiaryColorBg			: "#styliumSetting .styliumTertiaryColor, ",
+		tertiaryColorBorder		: ".attachment .boxModelFixer",
+		tertiaryColorBorderTop	: ""
+	},
+	settingDefaultValues: {
+		
+			
+				layout		: "styliumBoxedCover",
+			
+				primaryColor		: "rgb(33, 104, 164)",
+			
+				secondaryColor		: "rgb(40, 40, 40)",
+			
+				tertiaryColor		: "rgb(33, 104, 164)",
+			
+				bodyBgFullPage		: "",
+			
+				bodyBgColor		: "rgb(33, 104, 164)",
+			
+				bodyBgSize		: "",
+			
+				bodyBgImage		: "",
+			
+				bodyBgRepeat		: "",
+			
+				bodyBgPosition		: "",
+			
+				font		: "Arial",
+			
+				fontVariants		: "400,400italic,600,600italic",
+			
+		
+	}
+});
+
+Stylium.settingCustomValues = {
+	
+};
+
+
+jQuery.extend(XenForo.phrases,
+{
+	BRSF_collapse: "Collapse"
+});
+
+
+</script>
+
+
+
+
+</div>
+
+</body>
+</html>
